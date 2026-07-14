@@ -1,293 +1,362 @@
 <!--
-  ═══════════════════════════════════════════════════════════════
-  FJ — GitHub Profile README
-  Designed for impact. Built for clarity.
-  ═══════════════════════════════════════════════════════════════
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║                    MUHAMMAD FAHAD JAVED                          ║
+║                  Software Engineer in the Making                ║
+║                                                                   ║
+║  ═════════════════════════════════════════════════════════════  ║
+║                                                                   ║
+║         Crafting clean, performant software that solves         ║
+║                   real-world problems                            ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
-
-<!-- Typing Animation — clean, minimal, centered -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=18B6AE&center=true&vCenter=true&width=600&lines=Muhammad+Fahad+Javed;Software+Engineer+in+the+Making;C%2B%2B+%7C+JavaScript+%7C+React;Building+Scalable+Solutions" alt="Typing SVG" />
-</a>
-
-<!-- Divider — subtle, refined -->
-<hr width="60%" style="border: 1px solid #263646; opacity: 0.3; margin: 16px auto;" />
-
-<!-- One-line mission statement -->
-<p style="color: #A9B2BD; font-size: 1.1rem; max-width: 600px; margin: 0 auto 16px;">
-  Student at <strong style="color: #F7F9FB;">FAST-NUCES</strong> · Building clean, performant software that solves real problems.
-</p>
-
-<!-- Social Icons — minimal, elegant -->
+<!-- ─── ANIMATED HERO BANNER ─── -->
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-fahad-javed"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/muhammad-fahad-javed"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:muhammadfahadjaved.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://fahadjaved.dev"><img src="https://img.shields.io/badge/-Portfolio-18B6AE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=18B6AE&height=200&section=header&text=Muhammad%20Fahad%20Javed&fontSize=50&fontColor=F7F9FB&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20C%2B%2B%20%7C%20React%20%7C%20Full-Stack&descAlignY=60&descSize=18" alt="Banner" width="100%" />
 </p>
 
-<!-- Spacer -->
-<br />
+<!-- ─── VISITOR COUNTER + STATUS BADGES ─── -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammad-fahad-javed&label=Profile%20Views&color=18B6AE&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Active%20Now-2ED9D1?style=flat-square&labelColor=131C25&color=18B6AE" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Multan%2C%20Pakistan-18B6AE?style=flat-square&labelColor=131C25" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-%2B5%3A00-18B6AE?style=flat-square&labelColor=131C25" alt="Timezone" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-18B6AE?style=flat-square&labelColor=131C25" alt="Focus" />
+</p>
 
-</div>
+<!-- ─── TYPING ANIMATION ─── -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&duration=3500&pause=1000&color=18B6AE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muhammad+Fahad+Javed;Software+Engineer+in+the+Making;C%2B%2B+%7C+JavaScript+%7C+React;Building+Scalable+Solutions;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</h1>
 
----
+<!-- ─── TAGLINE ─── -->
+<h3 align="center" style="color: #A9B2BD; font-weight: 400;">
+  Computer Science student at <span style="color: #F7F9FB; font-weight: 600;">FAST‑NUCES</span>
+</h3>
 
-<!-- ============================================================
-     ABOUT
-     ============================================================ -->
-
-## <span style="color: #18B6AE;">About Me</span>
-
-I'm <strong style="color: #F7F9FB;">Muhammad Fahad Javed</strong> — a Computer Science student at <strong style="color: #F7F9FB;">FAST-NUCES</strong> with a deep passion for software engineering and problem solving. I write clean, maintainable code that scales, and I approach every project with a product mindset: understand the user, design with intention, and build with quality.
-
-I'm currently sharpening my skills in full-stack web development, data structures, and system design — always with an eye toward real-world impact.
-
----
-
-<!-- ============================================================
-     CURRENT FOCUS
-     ============================================================ -->
-
-## <span style="color: #18B6AE;">Current Focus</span>
-
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 700px; margin: 0 auto;">
-  <tr>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 12px 0 0 12px; border: 1px solid #263646;">
-      <code style="color: #18B6AE;">📚</code> &nbsp; <span style="color: #F7F9FB; font-weight: 600;">Currently Learning</span><br />
-      <span style="color: #A9B2BD; font-size: 0.9rem;">React · Next.js · TypeScript · DSA</span>
-    </td>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 0 12px 12px 0; border: 1px solid #263646;">
-      <code style="color: #18B6AE;">🚀</code> &nbsp; <span style="color: #F7F9FB; font-weight: 600;">Current Projects</span><br />
-      <span style="color: #A9B2BD; font-size: 0.9rem;">Portfolio · Data Structures Lib · Ludo Game</span>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 12px 0 0 12px; border: 1px solid #263646;">
-      <code style="color: #18B6AE;">🎯</code> &nbsp; <span style="color: #F7F9FB; font-weight: 600;">Career Goals</span><br />
-      <span style="color: #A9B2BD; font-size: 0.9rem;">Full-Stack Engineer · Scalable Systems</span>
-    </td>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 0 12px 12px 0; border: 1px solid #263646;">
-      <code style="color: #18B6AE;">🤝</code> &nbsp; <span style="color: #F7F9FB; font-weight: 600;">Open to</span><br />
-      <span style="color: #A9B2BD; font-size: 0.9rem;">Internships · Collaborations · Mentorship</span>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ============================================================
-     TECH STACK
-     ============================================================ -->
-
-## <span style="color: #18B6AE;">Tech Stack</span>
-
-<div align="center">
-
-<!-- Languages -->
-<table style="border-collapse: collapse; width: 100%; max-width: 700px; margin: 0 auto;">
-  <tr>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">Languages</span>
-    </td>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">Frontend</span>
-    </td>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">Backend</span>
-    </td>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">Tools</span>
-    </td>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">Learning</span>
-    </td>
-    <td style="padding: 8px 12px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ============================================================
-     FEATURED PROJECTS
-     ============================================================ -->
-
-## <span style="color: #18B6AE;">Featured Projects</span>
-
-<div align="center">
-
-<!-- Project Cards — clean, minimal cards with tech tags -->
-
-<table style="border-collapse: collapse; width: 100%; max-width: 800px; margin: 0 auto;">
-  <tr>
-    <td style="padding: 20px 24px; background: #131C25; border-radius: 16px; border: 1px solid #263646; vertical-align: top; width: 50%;">
-      <h4 style="color: #F7F9FB; margin: 0 0 4px 0;">Portfolio Website</h4>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0 0 8px 0;">Personal brand &amp; project showcase built with HTML, CSS, JavaScript.</p>
-      <div style="margin-bottom: 10px;">
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">HTML</code>
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">CSS</code>
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">JS</code>
-      </div>
-      <div>
-        <a href="https://github.com/muhammad-fahad-javed/portfolio" style="color: #18B6AE; text-decoration: none; font-size: 0.8rem; margin-right: 12px;">→ Repo</a>
-        <a href="https://fahadjaved.dev" style="color: #18B6AE; text-decoration: none; font-size: 0.8rem;">→ Live</a>
-      </div>
-    </td>
-    <td style="padding: 20px 24px; background: #131C25; border-radius: 16px; border: 1px solid #263646; vertical-align: top; width: 50%;">
-      <h4 style="color: #F7F9FB; margin: 0 0 4px 0;">C++ Ludo Game</h4>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0 0 8px 0;">Console-based Ludo with OOP architecture, dice logic, and turn management.</p>
-      <div style="margin-bottom: 10px;">
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">C++</code>
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">OOP</code>
-      </div>
-      <div>
-        <a href="https://github.com/muhammad-fahad-javed/ludo-game" style="color: #18B6AE; text-decoration: none; font-size: 0.8rem; margin-right: 12px;">→ Repo</a>
-        <span style="color: #7E8895; font-size: 0.8rem;">No Live</span>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px 24px; background: #131C25; border-radius: 16px; border: 1px solid #263646; vertical-align: top;">
-      <h4 style="color: #F7F9FB; margin: 0 0 4px 0;">Student Management System</h4>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0 0 8px 0;">Full CRUD console app with inheritance, polymorphism, and file persistence.</p>
-      <div style="margin-bottom: 10px;">
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">C++</code>
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">OOP</code>
-      </div>
-      <div>
-        <a href="https://github.com/muhammad-fahad-javed/student-management-system" style="color: #18B6AE; text-decoration: none; font-size: 0.8rem; margin-right: 12px;">→ Repo</a>
-        <span style="color: #7E8895; font-size: 0.8rem;">No Live</span>
-      </div>
-    </td>
-    <td style="padding: 20px 24px; background: #131C25; border-radius: 16px; border: 1px solid #263646; vertical-align: top;">
-      <h4 style="color: #F7F9FB; margin: 0 0 4px 0;">Data Structures Repository</h4>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0 0 8px 0;">Implementations of core data structures and algorithms in C++.</p>
-      <div style="margin-bottom: 10px;">
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">C++</code>
-        <code style="background: #0D2A2D; color: #18B6AE; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem;">DSA</code>
-      </div>
-      <div>
-        <a href="https://github.com/muhammad-fahad-javed/data-structures" style="color: #18B6AE; text-decoration: none; font-size: 0.8rem; margin-right: 12px;">→ Repo</a>
-        <span style="color: #7E8895; font-size: 0.8rem;">No Live</span>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ============================================================
-     GITHUB ANALYTICS
-     ============================================================ -->
-
-## <span style="color: #18B6AE;">GitHub Analytics</span>
-
-<div align="center">
-
-<!-- Stats — transparent, rounded, consistent theme -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-fahad-javed&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE&hide=issues" alt="GitHub Stats" width="45%" style="border-radius: 12px;" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fahad-javed&layout=compact&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD" alt="Top Languages" width="40%" style="border-radius: 12px;" />
+<p align="center" style="color: #7E8895; max-width: 600px; margin: 0 auto;">
+  Crafting clean, performant software that solves real-world problems — one line of code at a time.
+</p>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-fahad-javed&hide_border=true&background=0D1117&stroke=263646&ring=18B6AE&fire=18B6AE&currStreakLabel=18B6AE&sideLabels=A9B2BD&currStreakNum=F7F9FB&sideNums=F7F9FB&dates=A9B2BD" alt="GitHub Streak" width="55%" style="border-radius: 12px;" />
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
-</div>
+<br />
 
 ---
 
-<!-- ============================================================
-     CONNECT
-     ============================================================ -->
+## 💫 About Me
 
-## <span style="color: #18B6AE;">Let's Connect</span>
-
-<div align="center">
-
-<p style="color: #A9B2BD; max-width: 500px; margin: 0 auto 20px;">
-  I'm always open to interesting conversations, collaboration, or opportunities.  
-  Reach out — let's build something meaningful.
+<p align="center" style="color: #A9B2BD; max-width: 720px; margin: 0 auto; line-height: 1.8;">
+  I'm <strong style="color: #F7F9FB;">Muhammad Fahad Javed</strong> — a Computer Science student at <strong style="color: #F7F9FB;">FAST‑NUCES</strong> who fell in love with software engineering through <strong style="color: #18B6AE;">C++</strong> and never looked back.
 </p>
 
-<!-- Icons — clean, elegant, consistent tone -->
-<a href="https://linkedin.com/in/muhammad-fahad-javed">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://fahadjaved.dev">
-  <img src="https://img.shields.io/badge/-Portfolio-18B6AE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:muhammadfahadjaved.dev@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://instagram.com/fahadjaved._">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;
-<a href="https://facebook.com/your-profile">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+<p align="center" style="color: #A9B2BD; max-width: 720px; margin: 0 auto; line-height: 1.8;">
+  I write code that is <strong style="color: #F7F9FB;">clean</strong>, <strong style="color: #F7F9FB;">maintainable</strong>, and <strong style="color: #F7F9FB;">built to scale</strong>. My focus is on <strong style="color: #F7F9FB;">full‑stack web development</strong> (React, Node.js) and <strong style="color: #F7F9FB;">systems programming</strong>, but I'm equally passionate about problem‑solving, elegant architecture, and the craft of building products people actually use.
+</p>
 
-</div>
+<p align="center" style="color: #A9B2BD; max-width: 720px; margin: 0 auto; line-height: 1.8;">
+  I believe great software is born from <strong style="color: #F7F9FB;">curiosity</strong>, <strong style="color: #F7F9FB;">discipline</strong>, and a deep respect for the user. Every project I tackle is an opportunity to learn something new and deliver real value.
+</p>
+
+<br />
+
+<!-- ─── PHILOSOPHY QUOTE ─── -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Philosophy-%22Code%20is%20not%20just%20about%20logic%20—%20it's%20about%20understanding%20people%2C%20problems%2C%20and%20the%20beautiful%20complexity%20of%20the%20world.%22-18B6AE?style=flat-square&labelColor=131C25" alt="Philosophy" />
+</p>
+
+<br />
+
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<br />
 
 ---
 
-<!-- ============================================================
-     FOOTER
-     ============================================================ -->
+## 🎯 Current Focus
 
-<div align="center">
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
+  <tr>
+    <td style="padding: 16px 20px; background: #131C25; border-radius: 12px 0 0 12px; border: 1px solid #263646; width: 50%;">
+      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">📚</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Learning</p>
+      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">React · Next.js · TypeScript · DSA</p>
+    </td>
+    <td style="padding: 16px 20px; background: #131C25; border-radius: 0 12px 12px 0; border: 1px solid #263646; width: 50%;">
+      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">🚀</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Building</p>
+      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">Portfolio · DSA Library · Ludo Game</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 16px 20px; background: #131C25; border-radius: 12px 0 0 12px; border: 1px solid #263646; width: 50%;">
+      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">🎯</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Goals</p>
+      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">Full-Stack Engineer · Scalable Systems</p>
+    </td>
+    <td style="padding: 16px 20px; background: #131C25; border-radius: 0 12px 12px 0; border: 1px solid #263646; width: 50%;">
+      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">🤝</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Open to</p>
+      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">Internships · Collaboration · Mentorship</p>
+    </td>
+  </tr>
+</table>
 
-<hr width="60%" style="border: 1px solid #263646; opacity: 0.3; margin: 24px auto;" />
+<br />
 
-<blockquote style="color: #7E8895; font-style: italic; max-width: 500px; margin: 0 auto;">
-  “Great software is built with purpose, precision, and a deep respect for the user.”
-</blockquote>
-
-<p style="color: #7E8895; font-size: 0.8rem; margin-top: 12px;">
-  <code style="color: #18B6AE;">FJ</code> &nbsp;·&nbsp; <span style="color: #A9B2BD;">Crafted with intention</span>
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
+<br />
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
+  <tr>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646; width: 18%;">
+      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Languages</span>
+    </td>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
+      <img src="https://img.shields.io/badge/-C++-18B6AE?style=flat-square&logo=cplusplus&logoColor=white&labelColor=131C25" alt="C++" />
+      <img src="https://img.shields.io/badge/-C-18B6AE?style=flat-square&logo=c&logoColor=white&labelColor=131C25" alt="C" />
+      <img src="https://img.shields.io/badge/-HTML-18B6AE?style=flat-square&logo=html5&logoColor=white&labelColor=131C25" alt="HTML" />
+      <img src="https://img.shields.io/badge/-CSS-18B6AE?style=flat-square&logo=css3&logoColor=white&labelColor=131C25" alt="CSS" />
+      <img src="https://img.shields.io/badge/-JavaScript-18B6AE?style=flat-square&logo=javascript&logoColor=white&labelColor=131C25" alt="JS" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
+      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Frontend</span>
+    </td>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
+      <img src="https://img.shields.io/badge/-React-18B6AE?style=flat-square&logo=react&logoColor=white&labelColor=131C25" alt="React" />
+      <img src="https://img.shields.io/badge/-Next.js-18B6AE?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=131C25" alt="Next.js" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
+      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Backend</span>
+    </td>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
+      <img src="https://img.shields.io/badge/-Node.js-18B6AE?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=131C25" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
+      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Tools</span>
+    </td>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
+      <img src="https://img.shields.io/badge/-Git-18B6AE?style=flat-square&logo=git&logoColor=white&labelColor=131C25" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-18B6AE?style=flat-square&logo=github&logoColor=white&labelColor=131C25" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-Firebase-18B6AE?style=flat-square&logo=firebase&logoColor=white&labelColor=131C25" alt="Firebase" />
+      <img src="https://img.shields.io/badge/-Netlify-18B6AE?style=flat-square&logo=netlify&logoColor=white&labelColor=131C25" alt="Netlify" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
+      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Learning</span>
+    </td>
+    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
+      <img src="https://img.shields.io/badge/-TypeScript-18B6AE?style=flat-square&logo=typescript&logoColor=white&labelColor=131C25" alt="TS" />
+      <img src="https://img.shields.io/badge/-Next.js-18B6AE?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=131C25" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-React-18B6AE?style=flat-square&logo=react&logoColor=white&labelColor=131C25" alt="React" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ─── SKILL PROGRESS ─── -->
+## 📊 Skill Progress
+
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
+  <tr>
+    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
+      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">92%</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">C++</p>
+      <img src="https://progress-bar.dev/92?&width=160&color=18B6AE" alt="C++ Progress" />
+    </td>
+    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
+      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">88%</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">OOP</p>
+      <img src="https://progress-bar.dev/88?&width=160&color=18B6AE" alt="OOP Progress" />
+    </td>
+    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
+      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">78%</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">JavaScript</p>
+      <img src="https://progress-bar.dev/78?&width=160&color=18B6AE" alt="JavaScript Progress" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
+      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">72%</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">DSA</p>
+      <img src="https://progress-bar.dev/72?&width=160&color=18B6AE" alt="DSA Progress" />
+    </td>
+    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
+      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">65%</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">React</p>
+      <img src="https://progress-bar.dev/65?&width=160&color=18B6AE" alt="React Progress" />
+    </td>
+    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
+      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">60%</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">Node.js</p>
+      <img src="https://progress-bar.dev/60?&width=160&color=18B6AE" alt="Node.js Progress" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<br />
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web Development
+
+#### 💼 Portfolio Website
+**Personal brand & project showcase**  
+Tech: `HTML` `CSS` `JavaScript`  
+Features: Responsive · Dark theme · Markdown blog · GitHub integration  
+🔗 [Repository](https://github.com/muhammad-fahad-javed/portfolio) · [Live Demo](https://fahadjaved.dev)
+
+<br />
+
+### ⚙️ C++ & Systems
+
+#### 🎓 Student Management System
+**Full CRUD console app with OOP architecture**  
+Tech: `C++` `OOP` `File I/O`  
+Features: Multi‑level class hierarchy · Binary file persistence · Search & sort  
+🔗 [Repository](https://github.com/muhammad-fahad-javed/student-management-system)
+
+#### 🎲 Ludo Game
+**Console‑based Ludo with OOP design**  
+Tech: `C++` `OOP`  
+Features: Multi‑player · Randomised dice · Collision detection  
+🔗 [Repository](https://github.com/muhammad-fahad-javed/ludo-game)
+
+<br />
+
+### 📚 Data Structures & Algorithms
+
+#### 📊 Data Structures Repository
+**Core DSA implementations in C++**  
+Tech: `C++` `DSA`  
+Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests  
+🔗 [Repository](https://github.com/muhammad-fahad-javed/data-structures)
+
+<br />
+
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<br />
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fahad-javed&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE&hide=issues" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fahad-javed&layout=compact&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD" alt="Top Languages" width="42%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-fahad-javed&hide_border=true&background=0D1117&stroke=263646&ring=18B6AE&fire=18B6AE&currStreakLabel=18B6AE&sideLabels=A9B2BD&currStreakNum=F7F9FB&sideNums=F7F9FB&dates=A9B2BD" alt="GitHub Streak" width="55%" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fahad-javed&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=18B6AE&line=18B6AE&point=2ED9D1" alt="Activity Graph" width="100%" />
+</div>
+
+<br />
+
+<!-- ─── CONTRIBUTION SNAKE ─── -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhammad-fahad-javed/muhammad-fahad-javed/output/snake.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+<br />
+
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<br />
+
+---
+
+## 🏆 Achievements & Certifications
+
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
+  <tr>
+    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
+      <p style="font-size: 2rem; margin: 0;">🔐</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">Cybersecurity</p>
+      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">Google</p>
+    </td>
+    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
+      <p style="font-size: 2rem; margin: 0;">☁️</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">Generative AI</p>
+      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">AWS</p>
+    </td>
+    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
+      <p style="font-size: 2rem; margin: 0;">🤖</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">AI Security</p>
+      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">Securiti AI</p>
+    </td>
+    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
+      <p style="font-size: 2rem; margin: 0;">🐧</p>
+      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">Linux &amp; SQL</p>
+      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">Google</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<br />
+
+---
+
+## 🔄 Developer Workflow
+
+```mermaid
+graph LR
+    A[💡 Idea] --> B[📋 Plan]
+    B --> C[✍️ Code]
+    C --> D[🧪 Test]
+    D --> E[🚀 Deploy]
+    E --> F[📚 Learn]
+    F --> A
