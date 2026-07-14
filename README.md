@@ -1,25 +1,26 @@
 <!--
-╔══════════════════════════════════════════════════════════════╗
-║  FJ — GitHub Profile README                               ║
-║  Designed for impact. Built for clarity.                 ║
-║  Top 1% · Premium · Minimal · Recruiter‑ready             ║
-╚══════════════════════════════════════════════════════════════╝
+  ═══════════════════════════════════════════════════════════════
+  FJ · GitHub Profile README
+  Handcrafted · Minimal · Recruiter‑ready
+  ═══════════════════════════════════════════════════════════════
 -->
-
-<!-- ─── HERO ─── -->
 
 <div align="center">
 
+<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=3500&pause=1000&color=18B6AE&center=true&vCenter=true&width=800&lines=Muhammad+Fahad+Javed;Software+Engineer+in+the+Making;C%2B%2B+%7C+JavaScript+%7C+React;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3500&pause=1000&color=18B6AE&center=true&vCenter=true&width=900&lines=Muhammad+Fahad+Javed;Software+Engineer+in+the+Making;C%2B%2B+%7C+JavaScript+%7C+React;Building+Scalable+Solutions" alt="Typing SVG" />
 </a>
 
+<!-- Premium divider -->
 <hr width="60%" style="border: 1px solid #263646; opacity: 0.3; margin: 12px auto;" />
 
-<p style="color: #A9B2BD; font-size: 1.15rem; max-width: 640px; margin: 0 auto 20px;">
+<!-- Mission statement -->
+<p style="color: #A9B2BD; font-size: 1.2rem; max-width: 640px; margin: 0 auto 20px;">
   Computer Science student at <strong style="color: #F7F9FB;">FAST-NUCES</strong> · Crafting clean, performant software that solves real problems with <strong style="color: #F7F9FB;">C++</strong>, <strong style="color: #F7F9FB;">JavaScript</strong>, and modern web tools.
 </p>
 
+<!-- Social icons — consistent, elegant -->
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
     <img src="https://img.shields.io/badge/-LinkedIn-18B6AE?style=flat-square&logo=linkedin&logoColor=white&labelColor=131C25" alt="LinkedIn" />
@@ -57,7 +58,17 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 ---
 
-<!-- ─── CURRENT FOCUS ─── (Redesigned as flexible cards) -->
+<!-- ─── PROFESSIONAL SUMMARY ─── -->
+
+## <span style="color: #18B6AE;">Professional Summary</span>
+
+- **Strength**: C++ systems programming & full‑stack JavaScript development.
+- **Interests**: Software engineering, clean code, scalable applications, modern web technologies.
+- **Direction**: Building a strong foundation in DSA and full‑stack development while contributing to open‑source and preparing for a career as a software engineer at a top‑tier tech company.
+
+---
+
+<!-- ─── CURRENT FOCUS ─── (redesigned as flexible cards) -->
 
 ## <span style="color: #18B6AE;">Current Focus</span>
 
@@ -93,7 +104,7 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 ---
 
-<!-- ─── TECH STACK ─── (Consistent badges) -->
+<!-- ─── TECH STACK ─── (consistent shields) -->
 
 ## <span style="color: #18B6AE;">Tech Stack</span>
 
@@ -154,7 +165,7 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 ---
 
-<!-- ─── FEATURED PROJECTS ─── (Redesigned with GitHub native repo cards) -->
+<!-- ─── FEATURED PROJECTS ─── (GitHub‑native repo cards) -->
 
 ## <span style="color: #18B6AE;">Featured Projects</span>
 
@@ -164,7 +175,7 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 <div align="center" style="max-width: 820px; margin: 0 auto;">
 
-  <!-- Portfolio — custom card with live demo badge -->
+  <!-- Portfolio custom card -->
   <div style="background: #131C25; border: 1px solid #263646; border-radius: 14px; padding: 20px 24px; text-align: left; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px;">
 
     <div style="flex: 1; min-width: 180px;">
@@ -198,7 +209,6 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 820px; margin: 0 auto;">
 
-  <!-- Student Management System — GitHub Readme Stats Card -->
   <div style="flex: 1 1 340px; max-width: 380px; min-width: 280px;">
     <a href="https://github.com/muhammad-fahad-javed/student-management-system" target="_blank" style="text-decoration: none;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fahad-javed&repo=student-management-system&theme=dark&bg_color=0D1117&border_color=263646&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE" alt="Student Management System" style="border-radius: 12px; width: 100%;" />
@@ -216,7 +226,6 @@ I believe great software is born from curiosity, discipline, and a deep respect 
     </div>
   </div>
 
-  <!-- Ludo Game — GitHub Readme Stats Card -->
   <div style="flex: 1 1 340px; max-width: 380px; min-width: 280px;">
     <a href="https://github.com/muhammad-fahad-javed/ludo-game" target="_blank" style="text-decoration: none;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fahad-javed&repo=ludo-game&theme=dark&bg_color=0D1117&border_color=263646&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE" alt="Ludo Game" style="border-radius: 12px; width: 100%;" />
@@ -242,7 +251,6 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 820px; margin: 0 auto;">
 
-  <!-- Data Structures — GitHub Readme Stats Card -->
   <div style="flex: 1 1 340px; max-width: 380px; min-width: 280px;">
     <a href="https://github.com/muhammad-fahad-javed/data-structures" target="_blank" style="text-decoration: none;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fahad-javed&repo=data-structures&theme=dark&bg_color=0D1117&border_color=263646&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE" alt="Data Structures Repository" style="border-radius: 12px; width: 100%;" />
@@ -267,6 +275,25 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 ---
 
+<!-- ─── PINNED REPOSITORIES ─── (recommendations) -->
+
+## <span style="color: #18B6AE;">Recommended Pinned Repositories</span>
+
+<div align="center" style="color: #A9B2BD; font-size: 0.9rem; max-width: 700px; margin: 0 auto;">
+
+To maximise recruiter impact, pin these repositories on your GitHub profile:
+
+1. **portfolio** – shows front‑end design & personal brand.
+2. **student-management-system** – demonstrates C++ & OOP mastery.
+3. **ludo-game** – highlights game logic & object‑oriented design.
+4. **data-structures** – proves strong algorithms foundation.
+
+</div>
+
+<br />
+
+---
+
 <!-- ─── GITHUB ANALYTICS ─── -->
 
 ## <span style="color: #18B6AE;">GitHub Analytics</span>
@@ -283,7 +310,6 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 <br /><br />
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fahad-javed&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=18B6AE&line=18B6AE&point=2ED9D1" alt="Activity Graph" width="100%" style="border-radius: 12px;" />
 
 </div>
@@ -292,9 +318,52 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 ---
 
+<!-- ─── ACHIEVEMENTS ─── -->
+
+## <span style="color: #18B6AE;">Achievements</span>
+
+- **Certifications**: Google Cybersecurity, AWS Generative AI, Securiti AI Security & Governance, Linux & SQL (Google).
+- **Hackathons**: Participated in multiple university‑level hackathons; built prototypes under tight deadlines.
+- **Open Source**: Active contributor to educational C++ libraries and open‑source projects.
+- **Milestones**: Built 12+ projects across C++, web development, and data structures.
+
+---
+
+<!-- ─── DEVELOPMENT PHILOSOPHY ─── -->
+
+## <span style="color: #18B6AE;">Development Philosophy</span>
+
+- **Write code for humans first** — clarity over cleverness.
+- **Test thoroughly** — unit tests are not optional.
+- **Think in systems** — every component has a purpose.
+- **Learn continuously** — every project is a chance to improve.
+- **Ship with care** — polish matters.
+
+---
+
+<!-- ─── LEARNING ROADMAP ─── -->
+
+## <span style="color: #18B6AE;">Learning Roadmap</span>
+
+- **Now**: React, Next.js, TypeScript, advanced DSA.
+- **Next**: System design, cloud infrastructure (AWS/GCP), CI/CD.
+- **Future**: Full‑stack engineering, AI/ML integration, open‑source leadership.
+
+---
+
+<!-- ─── OPEN SOURCE ─── -->
+
+## <span style="color: #18B6AE;">Open Source</span>
+
+- Actively contributing to educational repositories and libraries.
+- Maintain a collection of C++ data structures implementations.
+- Open to collaborating on impactful projects that improve developer experience.
+
+---
+
 <!-- ─── CONNECT ─── -->
 
-## <span style="color: #18B6AE;">Let's Connect</span>
+## <span style="color: #18B6AE;">Connect</span>
 
 <div align="center">
 
@@ -306,17 +375,14 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 <a href="https://linkedin.com/in/muhammad-fahad-javed">
   <img src="https://img.shields.io/badge/-LinkedIn-18B6AE?style=flat-square&logo=linkedin&logoColor=white&labelColor=131C25" alt="LinkedIn" />
 </a>
-<a href="https://fahadjaved.dev">
-  <img src="https://img.shields.io/badge/-Portfolio-18B6AE?style=flat-square&logo=vercel&logoColor=white&labelColor=131C25" alt="Portfolio" />
+<a href="https://github.com/muhammad-fahad-javed">
+  <img src="https://img.shields.io/badge/-GitHub-18B6AE?style=flat-square&logo=github&logoColor=white&labelColor=131C25" alt="GitHub" />
 </a>
 <a href="mailto:muhammadfahadjaved.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Email-18B6AE?style=flat-square&logo=gmail&logoColor=white&labelColor=131C25" alt="Email" />
 </a>
-<a href="https://instagram.com/fahadjaved._">
-  <img src="https://img.shields.io/badge/-Instagram-18B6AE?style=flat-square&logo=instagram&logoColor=white&labelColor=131C25" alt="Instagram" />
-</a>
-<a href="https://facebook.com/your-profile">
-  <img src="https://img.shields.io/badge/-Facebook-18B6AE?style=flat-square&logo=facebook&logoColor=white&labelColor=131C25" alt="Facebook" />
+<a href="https://fahadjaved.dev">
+  <img src="https://img.shields.io/badge/-Portfolio-18B6AE?style=flat-square&logo=vercel&logoColor=white&labelColor=131C25" alt="Portfolio" />
 </a>
 
 </div>
