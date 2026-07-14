@@ -17,16 +17,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=18B6AE&height=200&section=header&text=Muhammad%20Fahad%20Javed&fontSize=50&fontColor=F7F9FB&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20C%2B%2B%20%7C%20React%20%7C%20Full-Stack&descAlignY=60&descSize=18" alt="Banner" width="100%" />
 </p>
 
-<!-- ─── VISITOR COUNTER + STATUS BADGES ─── -->
+<!-- ─── ANIMATED VISITOR COUNTER ─── -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-fahad-javed&label=Profile%20Views&color=18B6AE&style=flat-square" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@muhammad-fahad-javed" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active%20Now-2ED9D1?style=flat-square&labelColor=131C25&color=18B6AE" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Multan%2C%20Pakistan-18B6AE?style=flat-square&labelColor=131C25" alt="Location" />
   <img src="https://img.shields.io/badge/Timezone-%2B5%3A00-18B6AE?style=flat-square&labelColor=131C25" alt="Timezone" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-18B6AE?style=flat-square&labelColor=131C25" alt="Focus" />
 </p>
 
-<!-- ─── TYPING ANIMATION ─── -->
+<!-- ─── TYPING GREETING ─── -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&duration=3500&pause=1000&color=18B6AE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muhammad+Fahad+Javed;Software+Engineer+in+the+Making;C%2B%2B+%7C+JavaScript+%7C+React;Building+Scalable+Solutions;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
@@ -51,7 +51,7 @@
 
 ---
 
-## 💫 About Me
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=300&lines=%F0%9F%92%AB+About+Me" alt="About Me" />
 
 <p align="center" style="color: #A9B2BD; max-width: 720px; margin: 0 auto; line-height: 1.8;">
   I'm <strong style="color: #F7F9FB;">Muhammad Fahad Javed</strong> — a Computer Science student at <strong style="color: #F7F9FB;">FAST‑NUCES</strong> who fell in love with software engineering through <strong style="color: #18B6AE;">C++</strong> and never looked back.
@@ -83,7 +83,7 @@
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%8E%AF+Current+Focus" alt="Current Focus" />
 
 | **📚 Learning** | **🚀 Building** | **🎯 Goals** | **🤝 Open to** |
 |---|---|---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
 
 <p align="center">
   <!-- Languages -->
@@ -138,16 +138,16 @@
 
 ---
 
-## 📊 Skill Progress
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%93%8A+Skill+Progress" alt="Skill Progress" />
 
 | Skill | Proficiency |
 |-------|-------------|
-| C++   | ██████████ 92% |
-| OOP   | ██████████ 88% |
-| JavaScript | ████████░░ 78% |
-| DSA   | ███████░░░ 72% |
-| React | ██████░░░░ 65% |
-| Node.js| ██████░░░░ 60% |
+| C++   | <img src="https://progress-bar.dev/92?&width=160&color=18B6AE" alt="92%" /> |
+| OOP   | <img src="https://progress-bar.dev/88?&width=160&color=18B6AE" alt="88%" /> |
+| JavaScript | <img src="https://progress-bar.dev/78?&width=160&color=18B6AE" alt="78%" /> |
+| DSA   | <img src="https://progress-bar.dev/72?&width=160&color=18B6AE" alt="72%" /> |
+| React | <img src="https://progress-bar.dev/65?&width=160&color=18B6AE" alt="65%" /> |
+| Node.js| <img src="https://progress-bar.dev/60?&width=160&color=18B6AE" alt="60%" /> |
 
 <br />
 
@@ -160,7 +160,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
 
 ### 🌐 Web Development
 
@@ -207,7 +207,7 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fahad-javed&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE&hide=issues" alt="GitHub Stats" width="48%" />
@@ -246,7 +246,7 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
 
 ---
 
-## 🏆 Achievements & Certifications
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%8F%86+Achievements+%26+Certifications" alt="Achievements & Certifications" />
 
 | 🔐 Cybersecurity (Google) | ☁️ Generative AI (AWS) | 🤖 AI Security (Securiti AI) | 🐧 Linux & SQL (Google) |
 |---|---|---|---|
@@ -262,7 +262,7 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
 
 ---
 
-## 🔄 Developer Workflow
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%94%84+Developer+Workflow" alt="Developer Workflow" />
 
 ```mermaid
 graph LR
