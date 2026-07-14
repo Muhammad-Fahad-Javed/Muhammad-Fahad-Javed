@@ -246,10 +246,10 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%8F%86+Achievements+%26+Certifications" alt="Achievements & Certifications" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=18B6AE&width=350&lines=%F0%9F%8F%86+Achievements" alt="Achievements" />
 
-| 🔐 Cybersecurity (Google) | ☁️ Generative AI (AWS) | 🤖 AI Security (Securiti AI) | 🐧 Linux & SQL (Google) |
-|---|---|---|---|
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 <br />
 
