@@ -92,7 +92,6 @@
 <p align="center">
   <svg width="100%" height="440" viewBox="0 0 800 440" xmlns="http://www.w3.org/2000/svg" style="max-width: 820px; display: block; margin: 0 auto;">
     <defs>
-      <!-- Glow Filters -->
       <filter id="coreGlow" x="-40%" y="-40%" width="180%" height="180%">
         <feGaussianBlur stdDeviation="10" result="blur" />
         <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
@@ -106,7 +105,6 @@
         <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
       </filter>
 
-      <!-- Gradients -->
       <radialGradient id="centerRadial" cx="50%" cy="50%" r="50%">
         <stop offset="0%" stop-color="#18B6AE" stop-opacity="0.35" />
         <stop offset="60%" stop-color="#18B6AE" stop-opacity="0.08" />
@@ -129,32 +127,29 @@
       </linearGradient>
     </defs>
 
-    <!-- Background Glow -->
     <circle cx="400" cy="220" r="200" fill="url(#centerRadial)" />
 
-    <!-- ─── CONNECTION LINES ─── -->
-    <!-- Top-Left: Learning -->
     <line x1="400" y1="220" x2="120" y2="80" stroke="url(#lineGlow)" stroke-width="2.5" stroke-dasharray="8,8">
       <animate attributeName="stroke-dashoffset" from="0" to="32" dur="2.4s" repeatCount="indefinite" />
     </line>
     <line x1="400" y1="220" x2="120" y2="80" stroke="#18B6AE" stroke-width="1" opacity="0.15" />
-    <!-- Top-Right: Building -->
+
     <line x1="400" y1="220" x2="680" y2="80" stroke="url(#lineGlow)" stroke-width="2.5" stroke-dasharray="8,8">
       <animate attributeName="stroke-dashoffset" from="0" to="32" dur="2.6s" repeatCount="indefinite" />
     </line>
     <line x1="400" y1="220" x2="680" y2="80" stroke="#18B6AE" stroke-width="1" opacity="0.15" />
-    <!-- Bottom-Left: Goals -->
+
     <line x1="400" y1="220" x2="120" y2="360" stroke="url(#lineGlowV)" stroke-width="2.5" stroke-dasharray="8,8">
       <animate attributeName="stroke-dashoffset" from="0" to="32" dur="2.8s" repeatCount="indefinite" />
     </line>
     <line x1="400" y1="220" x2="120" y2="360" stroke="#18B6AE" stroke-width="1" opacity="0.15" />
-    <!-- Bottom-Right: Open To -->
+
     <line x1="400" y1="220" x2="680" y2="360" stroke="url(#lineGlowV)" stroke-width="2.5" stroke-dasharray="8,8">
       <animate attributeName="stroke-dashoffset" from="0" to="32" dur="2.2s" repeatCount="indefinite" />
     </line>
     <line x1="400" y1="220" x2="680" y2="360" stroke="#18B6AE" stroke-width="1" opacity="0.15" />
 
-    <!-- ─── CENTER CORE ─── -->
+    <!-- Center Core -->
     <g>
       <circle cx="400" cy="220" r="56" fill="#131C25" stroke="#18B6AE" stroke-width="2.5" filter="url(#coreGlow)">
         <animate attributeName="r" values="54;58;54" dur="3.2s" repeatCount="indefinite" />
@@ -166,7 +161,6 @@
       </circle>
       <text x="400" y="225" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#18B6AE">●</text>
       <text x="400" y="250" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#A9B2BD" letter-spacing="2">CURRENT FOCUS</text>
-      <!-- Floating particles around center -->
       <circle cx="360" cy="180" r="2.5" fill="#18B6AE" opacity="0.5">
         <animate attributeName="cx" values="360;350;360" dur="3s" repeatCount="indefinite" />
         <animate attributeName="opacity" values="0.5;0.2;0.5" dur="3s" repeatCount="indefinite" />
@@ -176,19 +170,15 @@
       </circle>
     </g>
 
-    <!-- ─── NODE: LEARNING (Top-Left) ─── -->
+    <!-- Node: Learning -->
     <g>
       <rect x="30" y="30" width="180" height="110" rx="14" fill="#131C25" stroke="url(#borderAccent)" stroke-width="1.5" filter="url(#cardGlow)" />
       <rect x="32" y="32" width="176" height="106" rx="12" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.3">
         <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite" />
       </rect>
-      <!-- Icon -->
       <text x="120" y="62" text-anchor="middle" font-family="Inter, sans-serif" font-size="28" fill="#18B6AE">📚</text>
-      <!-- Title -->
       <text x="120" y="88" text-anchor="middle" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#F7F9FB">Learning</text>
-      <!-- Description -->
       <text x="120" y="108" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#A9B2BD">React · Next.js · TS · DSA</text>
-      <!-- Floating particles -->
       <circle cx="50" cy="50" r="2" fill="#18B6AE" opacity="0.4">
         <animate attributeName="cy" values="50;40;50" dur="3.2s" repeatCount="indefinite" />
       </circle>
@@ -197,7 +187,7 @@
       </circle>
     </g>
 
-    <!-- ─── NODE: BUILDING (Top-Right) ─── -->
+    <!-- Node: Building -->
     <g>
       <rect x="590" y="30" width="180" height="110" rx="14" fill="#131C25" stroke="url(#borderAccent)" stroke-width="1.5" filter="url(#cardGlow)" />
       <rect x="592" y="32" width="176" height="106" rx="12" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.3">
@@ -214,7 +204,7 @@
       </circle>
     </g>
 
-    <!-- ─── NODE: GOALS (Bottom-Left) ─── -->
+    <!-- Node: Career Goal -->
     <g>
       <rect x="30" y="300" width="180" height="110" rx="14" fill="#131C25" stroke="url(#borderAccent)" stroke-width="1.5" filter="url(#cardGlow)" />
       <rect x="32" y="302" width="176" height="106" rx="12" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.3">
@@ -231,7 +221,7 @@
       </circle>
     </g>
 
-    <!-- ─── NODE: OPEN TO (Bottom-Right) ─── -->
+    <!-- Node: Open To -->
     <g>
       <rect x="590" y="300" width="180" height="110" rx="14" fill="#131C25" stroke="url(#borderAccent)" stroke-width="1.5" filter="url(#cardGlow)" />
       <rect x="592" y="302" width="176" height="106" rx="12" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.3">
@@ -248,7 +238,7 @@
       </circle>
     </g>
 
-    <!-- ─── EXTRA FLOATING PARTICLES ─── -->
+    <!-- Extra floating particles -->
     <circle cx="300" cy="140" r="1.5" fill="#18B6AE" opacity="0.25">
       <animate attributeName="cy" values="140;120;140" dur="5s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.25;0.55;0.25" dur="5s" repeatCount="indefinite" />
@@ -381,36 +371,29 @@
       </linearGradient>
     </defs>
 
-    <!-- ─── ROW 1 ─── -->
-    <!-- Skill 1: C++ -->
+    <!-- Row 1 -->
     <g transform="translate(50, 20)">
       <rect x="0" y="0" width="210" height="170" rx="12" fill="#131C25" stroke="#263646" stroke-width="1" />
       <rect x="2" y="2" width="206" height="166" rx="10" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.2">
         <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
       </rect>
-      <!-- Ring -->
       <circle cx="105" cy="65" r="42" fill="none" stroke="#263646" stroke-width="5" />
       <circle cx="105" cy="65" r="42" fill="none" stroke="url(#ringGrad1)" stroke-width="5" stroke-linecap="round"
               stroke-dasharray="263.9" stroke-dashoffset="21.1" filter="url(#ringGlow1)">
         <animate attributeName="stroke-dashoffset" from="263.9" to="21.1" dur="1.8s" fill="freeze" />
       </circle>
-      <!-- Sweep highlight -->
       <circle cx="105" cy="65" r="42" fill="none" stroke="url(#sweepGrad)" stroke-width="5" stroke-linecap="round"
               stroke-dasharray="263.9" stroke-dashoffset="240">
         <animate attributeName="stroke-dashoffset" from="263.9" to="0" dur="3s" repeatCount="indefinite" />
       </circle>
-      <!-- Percentage -->
       <text x="105" y="72" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#F7F9FB">92%</text>
-      <!-- Name & Description -->
       <text x="105" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-size="15" font-weight="600" fill="#F7F9FB">C++</text>
       <text x="105" y="132" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#A9B2BD">Systems Programming</text>
-      <!-- Floating dot -->
       <circle cx="30" cy="30" r="2" fill="#18B6AE" opacity="0.3">
         <animate attributeName="cy" values="30;20;30" dur="3.2s" repeatCount="indefinite" />
       </circle>
     </g>
 
-    <!-- Skill 2: OOP -->
     <g transform="translate(285, 20)">
       <rect x="0" y="0" width="210" height="170" rx="12" fill="#131C25" stroke="#263646" stroke-width="1" />
       <rect x="2" y="2" width="206" height="166" rx="10" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.2">
@@ -433,7 +416,6 @@
       </circle>
     </g>
 
-    <!-- Skill 3: JavaScript -->
     <g transform="translate(520, 20)">
       <rect x="0" y="0" width="210" height="170" rx="12" fill="#131C25" stroke="#263646" stroke-width="1" />
       <rect x="2" y="2" width="206" height="166" rx="10" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.2">
@@ -456,8 +438,7 @@
       </circle>
     </g>
 
-    <!-- ─── ROW 2 ─── -->
-    <!-- Skill 4: DSA -->
+    <!-- Row 2 -->
     <g transform="translate(50, 210)">
       <rect x="0" y="0" width="210" height="170" rx="12" fill="#131C25" stroke="#263646" stroke-width="1" />
       <rect x="2" y="2" width="206" height="166" rx="10" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.2">
@@ -480,7 +461,6 @@
       </circle>
     </g>
 
-    <!-- Skill 5: React -->
     <g transform="translate(285, 210)">
       <rect x="0" y="0" width="210" height="170" rx="12" fill="#131C25" stroke="#263646" stroke-width="1" />
       <rect x="2" y="2" width="206" height="166" rx="10" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.2">
@@ -503,7 +483,6 @@
       </circle>
     </g>
 
-    <!-- Skill 6: Node.js -->
     <g transform="translate(520, 210)">
       <rect x="0" y="0" width="210" height="170" rx="12" fill="#131C25" stroke="#263646" stroke-width="1" />
       <rect x="2" y="2" width="206" height="166" rx="10" fill="none" stroke="#18B6AE" stroke-width="0.5" opacity="0.2">
@@ -582,35 +561,27 @@
       </linearGradient>
     </defs>
 
-    <!-- ─── PROJECT CARD 1: Portfolio ─── -->
+    <!-- Card 1: Portfolio -->
     <g transform="translate(10, 10)">
       <rect x="0" y="0" width="250" height="400" rx="16" fill="#131C25" stroke="url(#projBorder1)" stroke-width="1.8" filter="url(#projGlow1)" />
-      <!-- Animated border glow -->
       <rect x="2" y="2" width="246" height="396" rx="14" fill="none" stroke="#18B6AE" stroke-width="1" opacity="0.3">
         <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite" />
       </rect>
-      <!-- Shimmer overlay -->
       <rect x="0" y="0" width="250" height="400" rx="16" fill="url(#shimmer1)">
         <animate attributeName="x" values="-250;250" dur="4s" repeatCount="indefinite" />
       </rect>
-      <!-- Screenshot -->
       <rect x="16" y="16" width="218" height="140" rx="8" fill="#0D2A2D" stroke="#263646" stroke-width="1" />
       <text x="125" y="92" text-anchor="middle" font-family="Inter, sans-serif" font-size="40" fill="#18B6AE" opacity="0.3">🖥️</text>
-      <!-- Title -->
       <text x="50%" y="186" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" font-weight="700" fill="#F7F9FB">Portfolio Website</text>
-      <!-- Description -->
       <text x="50%" y="210" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#A9B2BD">Personal brand · Glass‑morphism</text>
-      <!-- Tech chips -->
       <rect x="30" y="228" width="50" height="22" rx="4" fill="#0D2A2D" />
       <text x="55" y="243" text-anchor="middle" font-family="Inter, sans-serif" font-size="9" fill="#18B6AE">HTML</text>
       <rect x="86" y="228" width="42" height="22" rx="4" fill="#0D2A2D" />
       <text x="107" y="243" text-anchor="middle" font-family="Inter, sans-serif" font-size="9" fill="#18B6AE">CSS</text>
       <rect x="134" y="228" width="48" height="22" rx="4" fill="#0D2A2D" />
       <text x="158" y="243" text-anchor="middle" font-family="Inter, sans-serif" font-size="9" fill="#18B6AE">JS</text>
-      <!-- Status -->
       <rect x="30" y="260" width="84" height="20" rx="4" fill="#0D2A2D" stroke="#22C55E" stroke-width="0.8" />
       <text x="72" y="275" text-anchor="middle" font-family="Inter, sans-serif" font-size="9" fill="#22C55E">✅ Completed</text>
-      <!-- Buttons -->
       <a href="https://github.com/muhammad-fahad-javed/portfolio" target="_blank">
         <rect x="30" y="292" width="86" height="32" rx="6" fill="#18B6AE" />
         <text x="73" y="314" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#070D12" font-weight="600">Repository</text>
@@ -619,13 +590,12 @@
         <rect x="134" y="292" width="86" height="32" rx="6" fill="transparent" stroke="#18B6AE" stroke-width="1.5" />
         <text x="177" y="314" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#18B6AE" font-weight="600">Live Demo</text>
       </a>
-      <!-- Floating particle -->
       <circle cx="220" cy="30" r="2" fill="#18B6AE" opacity="0.4">
         <animate attributeName="cy" values="30;20;30" dur="3.2s" repeatCount="indefinite" />
       </circle>
     </g>
 
-    <!-- ─── PROJECT CARD 2: Student Management ─── -->
+    <!-- Card 2: Student Management -->
     <g transform="translate(280, 10)">
       <rect x="0" y="0" width="250" height="400" rx="16" fill="#131C25" stroke="url(#projBorder2)" stroke-width="1.8" filter="url(#projGlow2)" />
       <rect x="2" y="2" width="246" height="396" rx="14" fill="none" stroke="#18B6AE" stroke-width="1" opacity="0.3">
@@ -657,7 +627,7 @@
       </circle>
     </g>
 
-    <!-- ─── PROJECT CARD 3: Ludo Game ─── -->
+    <!-- Card 3: Ludo Game -->
     <g transform="translate(550, 10)">
       <rect x="0" y="0" width="250" height="400" rx="16" fill="#131C25" stroke="url(#projBorder3)" stroke-width="1.8" filter="url(#projGlow3)" />
       <rect x="2" y="2" width="246" height="396" rx="14" fill="none" stroke="#18B6AE" stroke-width="1" opacity="0.3">
@@ -693,8 +663,7 @@
 
 <br />
 
-<!-- DSA Project (kept as text for completeness) -->
-
+<!-- DSA project remains as text -->
 ### 📚 Data Structures & Algorithms
 
 #### 📊 Data Structures Repository
@@ -790,37 +759,29 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
       </linearGradient>
     </defs>
 
-    <!-- ─── CERT 1: Cybersecurity ─── -->
+    <!-- Cert 1 -->
     <g transform="translate(15, 10)">
       <rect x="0" y="0" width="180" height="175" rx="14" fill="#131C25" stroke="url(#certBorder1)" stroke-width="1.8" filter="url(#certGlow1)" />
-      <!-- Shimmer -->
       <rect x="0" y="0" width="180" height="175" rx="14" fill="url(#certShimmer)">
         <animate attributeName="x" values="-180;180" dur="4s" repeatCount="indefinite" />
       </rect>
-      <!-- Ribbon -->
       <path d="M90,0 L108,28 L126,0 L108,28 L90,0" fill="url(#ribbonGrad)" stroke="#18B6AE" stroke-width="1">
         <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.6s" repeatCount="indefinite" />
       </path>
-      <!-- Icon -->
       <text x="50%" y="52" text-anchor="middle" font-family="Inter, sans-serif" font-size="30" fill="#18B6AE">🔐</text>
-      <!-- Title -->
       <text x="50%" y="84" text-anchor="middle" font-family="Inter, sans-serif" font-size="15" font-weight="700" fill="#F7F9FB">Cybersecurity</text>
-      <!-- Issuer -->
       <text x="50%" y="107" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" fill="#A9B2BD">Google</text>
-      <!-- Year -->
       <text x="50%" y="128" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#7E8895">2025</text>
-      <!-- Verified badge -->
       <circle cx="152" cy="22" r="13" fill="#0D2A2D" stroke="#22C55E" stroke-width="1.5">
         <animate attributeName="r" values="12;14;12" dur="2s" repeatCount="indefinite" />
       </circle>
       <text x="152" y="27" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#22C55E" font-weight="700">✓</text>
-      <!-- Floating particle -->
       <circle cx="20" cy="155" r="1.5" fill="#18B6AE" opacity="0.3">
         <animate attributeName="cy" values="155;145;155" dur="3.5s" repeatCount="indefinite" />
       </circle>
     </g>
 
-    <!-- ─── CERT 2: Generative AI ─── -->
+    <!-- Cert 2 -->
     <g transform="translate(205, 10)">
       <rect x="0" y="0" width="180" height="175" rx="14" fill="#131C25" stroke="url(#certBorder1)" stroke-width="1.8" filter="url(#certGlow2)" />
       <rect x="0" y="0" width="180" height="175" rx="14" fill="url(#certShimmer)">
@@ -842,7 +803,7 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
       </circle>
     </g>
 
-    <!-- ─── CERT 3: AI Security ─── -->
+    <!-- Cert 3 -->
     <g transform="translate(395, 10)">
       <rect x="0" y="0" width="180" height="175" rx="14" fill="#131C25" stroke="url(#certBorder1)" stroke-width="1.8" filter="url(#certGlow3)" />
       <rect x="0" y="0" width="180" height="175" rx="14" fill="url(#certShimmer)">
@@ -864,7 +825,7 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
       </circle>
     </g>
 
-    <!-- ─── CERT 4: Linux & SQL ─── -->
+    <!-- Cert 4 -->
     <g transform="translate(585, 10)">
       <rect x="0" y="0" width="180" height="175" rx="14" fill="#131C25" stroke="url(#certBorder1)" stroke-width="1.8" filter="url(#certGlow4)" />
       <rect x="0" y="0" width="180" height="175" rx="14" fill="url(#certShimmer)">
