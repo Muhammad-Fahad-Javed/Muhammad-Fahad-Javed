@@ -68,9 +68,9 @@
 <br />
 
 <!-- ─── PHILOSOPHY QUOTE ─── -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Philosophy-%22Code%20is%20not%20just%20about%20logic%20—%20it's%20about%20understanding%20people%2C%20problems%2C%20and%20the%20beautiful%20complexity%20of%20the%20world.%22-18B6AE?style=flat-square&labelColor=131C25" alt="Philosophy" />
-</p>
+<blockquote align="center" style="color: #A9B2BD; border-left: 4px solid #18B6AE; padding-left: 1rem; margin: 0 auto; max-width: 650px;">
+  “Code is not just about logic — it's about understanding people, problems, and the beautiful complexity of the world.”
+</blockquote>
 
 <br />
 
@@ -85,32 +85,9 @@
 
 ## 🎯 Current Focus
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
-  <tr>
-    <td style="padding: 16px 20px; background: #131C25; border-radius: 12px 0 0 12px; border: 1px solid #263646; width: 50%;">
-      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">📚</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Learning</p>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">React · Next.js · TypeScript · DSA</p>
-    </td>
-    <td style="padding: 16px 20px; background: #131C25; border-radius: 0 12px 12px 0; border: 1px solid #263646; width: 50%;">
-      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">🚀</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Building</p>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">Portfolio · DSA Library · Ludo Game</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 16px 20px; background: #131C25; border-radius: 12px 0 0 12px; border: 1px solid #263646; width: 50%;">
-      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">🎯</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Goals</p>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">Full-Stack Engineer · Scalable Systems</p>
-    </td>
-    <td style="padding: 16px 20px; background: #131C25; border-radius: 0 12px 12px 0; border: 1px solid #263646; width: 50%;">
-      <p style="color: #18B6AE; font-size: 1.4rem; margin: 0;">🤝</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.95rem; margin: 4px 0 2px 0;">Open to</p>
-      <p style="color: #A9B2BD; font-size: 0.85rem; margin: 0;">Internships · Collaboration · Mentorship</p>
-    </td>
-  </tr>
-</table>
+| **📚 Learning** | **🚀 Building** | **🎯 Goals** | **🤝 Open to** |
+|---|---|---|---|
+| React · Next.js · TypeScript · DSA | Portfolio · DSA Library · Ludo Game | Full‑Stack Engineer · Scalable Systems | Internships · Collaboration · Mentorship |
 
 <br />
 
@@ -125,100 +102,52 @@
 
 ## 🛠️ Tech Stack
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
-  <tr>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646; width: 18%;">
-      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Languages</span>
-    </td>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-C++-18B6AE?style=flat-square&logo=cplusplus&logoColor=white&labelColor=131C25" alt="C++" />
-      <img src="https://img.shields.io/badge/-C-18B6AE?style=flat-square&logo=c&logoColor=white&labelColor=131C25" alt="C" />
-      <img src="https://img.shields.io/badge/-HTML-18B6AE?style=flat-square&logo=html5&logoColor=white&labelColor=131C25" alt="HTML" />
-      <img src="https://img.shields.io/badge/-CSS-18B6AE?style=flat-square&logo=css3&logoColor=white&labelColor=131C25" alt="CSS" />
-      <img src="https://img.shields.io/badge/-JavaScript-18B6AE?style=flat-square&logo=javascript&logoColor=white&labelColor=131C25" alt="JS" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Frontend</span>
-    </td>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-React-18B6AE?style=flat-square&logo=react&logoColor=white&labelColor=131C25" alt="React" />
-      <img src="https://img.shields.io/badge/-Next.js-18B6AE?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=131C25" alt="Next.js" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Backend</span>
-    </td>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-Node.js-18B6AE?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=131C25" alt="Node.js" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Tools</span>
-    </td>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-Git-18B6AE?style=flat-square&logo=git&logoColor=white&labelColor=131C25" alt="Git" />
-      <img src="https://img.shields.io/badge/-GitHub-18B6AE?style=flat-square&logo=github&logoColor=white&labelColor=131C25" alt="GitHub" />
-      <img src="https://img.shields.io/badge/-Firebase-18B6AE?style=flat-square&logo=firebase&logoColor=white&labelColor=131C25" alt="Firebase" />
-      <img src="https://img.shields.io/badge/-Netlify-18B6AE?style=flat-square&logo=netlify&logoColor=white&labelColor=131C25" alt="Netlify" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 8px 0 0 8px; border: 1px solid #263646;">
-      <span style="color: #7E8895; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px;">Learning</span>
-    </td>
-    <td style="padding: 10px 16px; background: #131C25; border-radius: 0 8px 8px 0; border: 1px solid #263646;">
-      <img src="https://img.shields.io/badge/-TypeScript-18B6AE?style=flat-square&logo=typescript&logoColor=white&labelColor=131C25" alt="TS" />
-      <img src="https://img.shields.io/badge/-Next.js-18B6AE?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=131C25" alt="Next.js" />
-      <img src="https://img.shields.io/badge/-React-18B6AE?style=flat-square&logo=react&logoColor=white&labelColor=131C25" alt="React" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <br />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <br />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <br />
+  <!-- Learning -->
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 <br />
 
-<!-- ─── SKILL PROGRESS ─── -->
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<br />
+
+---
+
 ## 📊 Skill Progress
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
-  <tr>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
-      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">92%</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">C++</p>
-      <img src="https://progress-bar.dev/92?&width=160&color=18B6AE" alt="C++ Progress" />
-    </td>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
-      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">88%</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">OOP</p>
-      <img src="https://progress-bar.dev/88?&width=160&color=18B6AE" alt="OOP Progress" />
-    </td>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
-      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">78%</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">JavaScript</p>
-      <img src="https://progress-bar.dev/78?&width=160&color=18B6AE" alt="JavaScript Progress" />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
-      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">72%</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">DSA</p>
-      <img src="https://progress-bar.dev/72?&width=160&color=18B6AE" alt="DSA Progress" />
-    </td>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
-      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">65%</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">React</p>
-      <img src="https://progress-bar.dev/65?&width=160&color=18B6AE" alt="React Progress" />
-    </td>
-    <td style="padding: 12px 16px; background: #131C25; border-radius: 8px; border: 1px solid #263646; width: 33%; text-align: center;">
-      <p style="color: #18B6AE; font-size: 1.8rem; font-weight: 700; margin: 0;">60%</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.85rem; margin: 0;">Node.js</p>
-      <img src="https://progress-bar.dev/60?&width=160&color=18B6AE" alt="Node.js Progress" />
-    </td>
-  </tr>
-</table>
+| Skill | Proficiency |
+|-------|-------------|
+| C++   | ██████████ 92% |
+| OOP   | ██████████ 88% |
+| JavaScript | ████████░░ 78% |
+| DSA   | ███████░░░ 72% |
+| React | ██████░░░░ 65% |
+| Node.js| ██████░░░░ 60% |
 
 <br />
 
@@ -297,6 +226,11 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
 <br />
 
 <!-- ─── CONTRIBUTION SNAKE ─── -->
+<!-- 
+  Note: This image requires a GitHub Action to generate and commit the snake.svg file.
+  If you haven't set it up, the image will be broken. 
+  You can remove this section or set up the action using: https://github.com/Platane/snk
+-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammad-fahad-javed/muhammad-fahad-javed/output/snake.svg" alt="Contribution Snake" width="100%" />
 </div>
@@ -314,30 +248,8 @@ Features: Linked lists · Trees · Graphs · Sorting · Searching · Unit tests
 
 ## 🏆 Achievements & Certifications
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto; border: none;">
-  <tr>
-    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
-      <p style="font-size: 2rem; margin: 0;">🔐</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">Cybersecurity</p>
-      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">Google</p>
-    </td>
-    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
-      <p style="font-size: 2rem; margin: 0;">☁️</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">Generative AI</p>
-      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">AWS</p>
-    </td>
-    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
-      <p style="font-size: 2rem; margin: 0;">🤖</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">AI Security</p>
-      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">Securiti AI</p>
-    </td>
-    <td style="padding: 14px 18px; background: #131C25; border-radius: 8px; border: 1px solid #263646; text-align: center; width: 25%;">
-      <p style="font-size: 2rem; margin: 0;">🐧</p>
-      <p style="color: #F7F9FB; font-weight: 600; font-size: 0.8rem; margin: 4px 0 2px 0;">Linux &amp; SQL</p>
-      <p style="color: #7E8895; font-size: 0.65rem; margin: 0;">Google</p>
-    </td>
-  </tr>
-</table>
+| 🔐 Cybersecurity (Google) | ☁️ Generative AI (AWS) | 🤖 AI Security (Securiti AI) | 🐧 Linux & SQL (Google) |
+|---|---|---|---|
 
 <br />
 
