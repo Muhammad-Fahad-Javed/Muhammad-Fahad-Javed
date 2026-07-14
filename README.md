@@ -1,76 +1,50 @@
 <!--
-  ═══════════════════════════════════════════════════════════════
-  FJ · GitHub Profile README
-  Handcrafted · Minimal · Recruiter‑ready
-  ═══════════════════════════════════════════════════════════════
+╔══════════════════════════════════════════════════════════════╗
+║  FJ — GitHub Profile README                                 ║
+║  Designed for impact. Built for clarity.                   ║
+║  Top 1% · Premium · Minimal · Recruiter‑ready              ║
+╚══════════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=3500&pause=1000&color=18B6AE&center=true&vCenter=true&width=900&lines=Muhammad+Fahad+Javed;Software+Engineer+in+the+Making;C%2B%2B+%7C+JavaScript+%7C+React;Building+Scalable+Solutions" alt="Typing SVG" />
-</a>
-
-<!-- Premium divider -->
-<hr width="60%" style="border: 1px solid #263646; opacity: 0.3; margin: 12px auto;" />
-
-<!-- Mission statement -->
-<p style="color: #A9B2BD; font-size: 1.2rem; max-width: 640px; margin: 0 auto 20px;">
-  Computer Science student at <strong style="color: #F7F9FB;">FAST-NUCES</strong> · Crafting clean, performant software that solves real problems with <strong style="color: #F7F9FB;">C++</strong>, <strong style="color: #F7F9FB;">JavaScript</strong>, and modern web tools.
-</p>
-
-<!-- Social icons — consistent, elegant -->
+<!-- ─── HEADER / BANNER ─── -->
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-fahad-javed">
-    <img src="https://img.shields.io/badge/-LinkedIn-18B6AE?style=flat-square&logo=linkedin&logoColor=white&labelColor=131C25" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/muhammad-fahad-javed">
-    <img src="https://img.shields.io/badge/-GitHub-18B6AE?style=flat-square&logo=github&logoColor=white&labelColor=131C25" alt="GitHub" />
-  </a>
-  <a href="mailto:muhammadfahadjaved.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-18B6AE?style=flat-square&logo=gmail&logoColor=white&labelColor=131C25" alt="Email" />
-  </a>
-  <a href="https://fahadjaved.dev">
-    <img src="https://img.shields.io/badge/-Portfolio-18B6AE?style=flat-square&logo=vercel&logoColor=white&labelColor=131C25" alt="Portfolio" />
-  </a>
-  <a href="https://instagram.com/fahadjaved._">
-    <img src="https://img.shields.io/badge/-Instagram-18B6AE?style=flat-square&logo=instagram&logoColor=white&labelColor=131C25" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/-Facebook-18B6AE?style=flat-square&logo=facebook&logoColor=white&labelColor=131C25" alt="Facebook" />
-  </a>
+  <img src="https://raw.githubusercontent.com/muhammad-fahad-javed/muhammad-fahad-javed/main/assets/banner.svg" alt="Banner" width="100%" style="max-width:1400px;">
 </p>
 
-<br />
+<!-- ─── VISITOR BADGE & STATUS ─── -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammad-fahad-javed&label=Profile%20Views&color=18B6AE&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Active%20Now-2ED9D1?style=flat-square&labelColor=131C25&color=18B6AE" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Multan%2C%20Pakistan-18B6AE?style=flat-square&labelColor=131C25" alt="Location" />
+  <img src="https://img.shields.io/badge/Timezone-%2B5%3A00-18B6AE?style=flat-square&labelColor=131C25" alt="Timezone" />
+</p>
 
-</div>
+<!-- ─── HERO / TITLE ─── -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=3500&pause=1000&color=18B6AE&center=true&vCenter=true&width=800&lines=Muhammad+Fahad+Javed;Software+Engineer+in+the+Making;C%2B%2B+%7C+JavaScript+%7C+React;Building+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
----
+<!-- ─── TAGLINE ─── -->
+<h3 align="center">Computer Science student at FAST‑NUCES · Crafting clean, performant software that solves real problems.</h3>
 
-<!-- ─── ABOUT ─── -->
+<!-- ─── ANIMATED DIVIDER ─── -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-## <span style="color: #18B6AE;">About Me</span>
+<!-- ─── ABOUT ME ─── -->
+## 💫 About Me
 
-I'm **Muhammad Fahad Javed** — a Computer Science student at **FAST-NUCES** who fell in love with software engineering through C++ and never looked back. I write code that is clean, maintainable, and built to scale. My focus is on **full‑stack web development** (React, Node.js) and **systems programming**, but I’m equally passionate about problem‑solving, elegant architecture, and the craft of building products people actually use.
+I'm **Muhammad Fahad Javed** — a Computer Science student at **FAST‑NUCES** who fell in love with software engineering through C++ and never looked back. I write code that is clean, maintainable, and built to scale. My focus is on **full‑stack web development** (React, Node.js) and **systems programming**, but I’m equally passionate about problem‑solving, elegant architecture, and the craft of building products people actually use.
 
 I believe great software is born from curiosity, discipline, and a deep respect for the user. Every project I tackle is an opportunity to learn something new and deliver real value.
 
----
-
-<!-- ─── PROFESSIONAL SUMMARY ─── -->
-
-## <span style="color: #18B6AE;">Professional Summary</span>
-
-- **Strength**: C++ systems programming & full‑stack JavaScript development.
-- **Interests**: Software engineering, clean code, scalable applications, modern web technologies.
-- **Direction**: Building a strong foundation in DSA and full‑stack development while contributing to open‑source and preparing for a career as a software engineer at a top‑tier tech company.
+**Philosophy:** *“Code is not just about logic — it's about understanding people, problems, and the beautiful complexity of the world.”*
 
 ---
 
-<!-- ─── CURRENT FOCUS ─── (redesigned as flexible cards) -->
-
-## <span style="color: #18B6AE;">Current Focus</span>
+<!-- ─── CURRENT FOCUS ─── -->
+## 🎯 Current Focus
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 820px; margin: 0 auto;">
 
@@ -100,13 +74,10 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 </div>
 
-<br />
-
 ---
 
-<!-- ─── TECH STACK ─── (consistent shields) -->
-
-## <span style="color: #18B6AE;">Tech Stack</span>
+<!-- ─── TECH STACK ─── -->
+## 🛠️ Tech Stack
 
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 780px; margin: 0 auto;">
   <tr>
@@ -161,13 +132,10 @@ I believe great software is born from curiosity, discipline, and a deep respect 
   </tr>
 </table>
 
-<br />
-
 ---
 
-<!-- ─── FEATURED PROJECTS ─── (GitHub‑native repo cards) -->
-
-## <span style="color: #18B6AE;">Featured Projects</span>
+<!-- ─── FEATURED PROJECTS ─── -->
+## 🚀 Featured Projects
 
 <br />
 
@@ -271,32 +239,10 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 
 </div>
 
-<br />
-
 ---
 
-<!-- ─── PINNED REPOSITORIES ─── (recommendations) -->
-
-## <span style="color: #18B6AE;">Recommended Pinned Repositories</span>
-
-<div align="center" style="color: #A9B2BD; font-size: 0.9rem; max-width: 700px; margin: 0 auto;">
-
-To maximise recruiter impact, pin these repositories on your GitHub profile:
-
-1. **portfolio** – shows front‑end design & personal brand.
-2. **student-management-system** – demonstrates C++ & OOP mastery.
-3. **ludo-game** – highlights game logic & object‑oriented design.
-4. **data-structures** – proves strong algorithms foundation.
-
-</div>
-
-<br />
-
----
-
-<!-- ─── GITHUB ANALYTICS ─── -->
-
-## <span style="color: #18B6AE;">GitHub Analytics</span>
+<!-- ─── GITHUB STATISTICS ─── -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -314,56 +260,20 @@ To maximise recruiter impact, pin these repositories on your GitHub profile:
 
 </div>
 
-<br />
-
 ---
 
-<!-- ─── ACHIEVEMENTS ─── -->
+<!-- ─── COMMUNITY & CONTRIBUTIONS ─── -->
+## 🤝 Community & Contributions
 
-## <span style="color: #18B6AE;">Achievements</span>
-
-- **Certifications**: Google Cybersecurity, AWS Generative AI, Securiti AI Security & Governance, Linux & SQL (Google).
-- **Hackathons**: Participated in multiple university‑level hackathons; built prototypes under tight deadlines.
-- **Open Source**: Active contributor to educational C++ libraries and open‑source projects.
-- **Milestones**: Built 12+ projects across C++, web development, and data structures.
-
----
-
-<!-- ─── DEVELOPMENT PHILOSOPHY ─── -->
-
-## <span style="color: #18B6AE;">Development Philosophy</span>
-
-- **Write code for humans first** — clarity over cleverness.
-- **Test thoroughly** — unit tests are not optional.
-- **Think in systems** — every component has a purpose.
-- **Learn continuously** — every project is a chance to improve.
-- **Ship with care** — polish matters.
-
----
-
-<!-- ─── LEARNING ROADMAP ─── -->
-
-## <span style="color: #18B6AE;">Learning Roadmap</span>
-
-- **Now**: React, Next.js, TypeScript, advanced DSA.
-- **Next**: System design, cloud infrastructure (AWS/GCP), CI/CD.
-- **Future**: Full‑stack engineering, AI/ML integration, open‑source leadership.
-
----
-
-<!-- ─── OPEN SOURCE ─── -->
-
-## <span style="color: #18B6AE;">Open Source</span>
-
-- Actively contributing to educational repositories and libraries.
-- Maintain a collection of C++ data structures implementations.
-- Open to collaborating on impactful projects that improve developer experience.
+- **Open Source:** Active contributor to educational C++ libraries and open‑source projects.
+- **Stack Overflow:** Helping solve C++ and systems programming issues.
+- **Blog:** Writing about technology, philosophy, and software craftsmanship (coming soon).
+- **Mentorship:** Mentoring junior students at FAST‑NUCES in OOP and systems design.
 
 ---
 
 <!-- ─── CONNECT ─── -->
-
-## <span style="color: #18B6AE;">Connect</span>
+## 🌐 Connect with Me
 
 <div align="center">
 
@@ -384,13 +294,18 @@ To maximise recruiter impact, pin these repositories on your GitHub profile:
 <a href="https://fahadjaved.dev">
   <img src="https://img.shields.io/badge/-Portfolio-18B6AE?style=flat-square&logo=vercel&logoColor=white&labelColor=131C25" alt="Portfolio" />
 </a>
+<a href="https://instagram.com/fahadjaved._">
+  <img src="https://img.shields.io/badge/-Instagram-18B6AE?style=flat-square&logo=instagram&logoColor=white&labelColor=131C25" alt="Instagram" />
+</a>
+<a href="https://facebook.com/your-profile">
+  <img src="https://img.shields.io/badge/-Facebook-18B6AE?style=flat-square&logo=facebook&logoColor=white&labelColor=131C25" alt="Facebook" />
+</a>
 
 </div>
 
 ---
 
 <!-- ─── FOOTER ─── -->
-
 <div align="center">
 
 <hr width="60%" style="border: 1px solid #263646; opacity: 0.3; margin: 28px auto;" />
@@ -401,6 +316,30 @@ To maximise recruiter impact, pin these repositories on your GitHub profile:
 
 <p style="color: #7E8895; font-size: 0.85rem; margin-top: 12px;">
   <span style="color: #18B6AE; font-weight: 700;">FJ</span> &nbsp;·&nbsp; <span style="color: #A9B2BD;">Crafted with intention</span>
+  <br />
+  <span style="color: #7E8895; font-size: 0.7rem;">Last updated: <span id="last-updated">2025-07-14</span></span>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-Purpose-18B6AE?style=flat-square&labelColor=131C25" alt="Built with Purpose" />
+  <img src="https://img.shields.io/badge/License-MIT-18B6AE?style=flat-square&labelColor=131C25" alt="License" />
 </p>
 
 </div>
+
+<!--
+─────────────────────────────────────────────────────────────────
+  INSTRUCTIONS FOR CUSTOMIZATION
+─────────────────────────────────────────────────────────────────
+
+1. Replace all instances of "muhammad-fahad-javed" with your actual GitHub username.
+2. Update the banner image URL (currently points to a placeholder in your repo).
+3. Replace "fahadjaved.dev" with your live portfolio URL.
+4. Replace "your-profile" in Facebook and other social links.
+5. Update the "last-updated" span with your own date (or automate via script).
+6. Ensure all repository names (portfolio, student-management-system, ludo-game, data-structures) match your actual repos.
+7. If you don't have a particular repo, remove or replace that project card.
+8. Add your own profile photo/banner assets if desired.
+
+All colors are set to match the design system (#070D12, #131C25, #18B6AE, etc.).
+-->
