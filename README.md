@@ -142,12 +142,12 @@
 
 | Skill | Proficiency |
 |-------|-------------|
-| C++   | <img src="https://progress-bar.dev/92?&width=160&color=18B6AE" alt="92%" /> |
-| OOP   | <img src="https://progress-bar.dev/88?&width=160&color=18B6AE" alt="88%" /> |
-| JavaScript | <img src="https://progress-bar.dev/78?&width=160&color=18B6AE" alt="78%" /> |
-| DSA   | <img src="https://progress-bar.dev/72?&width=160&color=18B6AE" alt="72%" /> |
-| React | <img src="https://progress-bar.dev/65?&width=160&color=18B6AE" alt="65%" /> |
-| Node.js| <img src="https://progress-bar.dev/60?&width=160&color=18B6AE" alt="60%" /> |
+| C++   | ██████████ 92% |
+| OOP   | ██████████ 88% |
+| JavaScript | ████████░░ 78% |
+| DSA   | ███████░░░ 72% |
+| React | ██████░░░░ 65% |
+| Node.js| ██████░░░░ 60% |
 
 <br />
 
