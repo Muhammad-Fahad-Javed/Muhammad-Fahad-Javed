@@ -237,7 +237,7 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 ---
 
 <!-- ============================================================
-     GITHUB ANALYTICS — unified theme
+     GITHUB ANALYTICS — unified theme + contribution graph
      ============================================================ -->
 
 ## <span style="color: #18B6AE;">GitHub Analytics</span>
@@ -252,6 +252,11 @@ I believe great software is born from curiosity, discipline, and a deep respect 
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-fahad-javed&hide_border=true&background=0D1117&stroke=263646&ring=18B6AE&fire=18B6AE&currStreakLabel=18B6AE&sideLabels=A9B2BD&currStreakNum=F7F9FB&sideNums=F7F9FB&dates=A9B2BD" alt="GitHub Streak" width="55%" style="border-radius: 12px;" />
+
+<br /><br />
+
+<!-- Contribution Graph — visually rich -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fahad-javed&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=18B6AE&line=18B6AE&point=2ED9D1" alt="Activity Graph" width="100%" style="border-radius: 12px;" />
 
 </div>
 
