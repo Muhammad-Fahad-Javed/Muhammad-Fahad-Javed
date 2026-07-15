@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=18B6AE&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Solving+problems+with+C%2B%2B+and+JavaScript;Interested+in+AI+%26+Computer+Vision;Open+Source+enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=18B6AE&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Solving+problems+with+C%2B%2B+and+JavaScript;Interested+in+AI+%26+Computer+Vision;Currently+building+an+AI+background-removal+tool" alt="Typing animation" />
 </h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **FAST-NUCES** with a strong foundation in software engineering, data structures, and algorithms. I build modern web applications using **React**, **Next.js**, and **JavaScript**, while also enjoying systems programming in **C++**.
+I'm a Computer Science student at **FAST-NUCES** with a strong foundation in software engineering, data structures, and algorithms. I build web applications using **React**, **Next.js**, and **JavaScript**, while also enjoying systems programming in **C++**.
 
-I'm passionate about creating clean, performant software that solves real-world problems. Currently, I'm deepening my knowledge of full‑stack development, exploring AI and computer vision, and contributing to open‑source projects.
+I'm passionate about creating clean, performant software that solves real-world problems. Right now I'm deepening my full-stack skills and building my first project into AI/computer vision — a background-removal tool for product photos.
 
 ---
 
@@ -21,65 +21,87 @@ I'm passionate about creating clean, performant software that solves real-world 
 | Area | Focus |
 |------|-------|
 | **Learning** | React, Next.js, TypeScript, Advanced DSA |
-| **Building** | AI‑powered background removal tool, modern portfolio |
-| **Goals** | Full‑stack engineer · Scalable systems · Open‑source impact |
+| **Building** | AI-powered background removal tool for product photos |
+| **Goals** | Full-stack engineer · Scalable systems · Meaningful open-source contributions |
 | **Open to** | Internships, collaboration, mentorship |
 
 ---
 
 ## 🚀 Featured Projects
 
-### [**Modern Portfolio Website**](https://github.com/Muhammad-Fahad-Javed/portfolio)
-Responsive developer portfolio with project showcase, animations, and SEO‑optimized structure.  
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Dark theme, responsive design, GitHub integration  
+### Web & Full-Stack
+
+#### [**AI Image Service — Background Removal**](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
+Full-stack tool where sellers upload a product photo and an AI model automatically removes the background — buyers only ever see the clean cutout.
+**Tech:** Next.js, TypeScript, FastAPI, Python, ONNX Runtime
+**Features:** Drag-and-drop upload with live progress, AI background removal pipeline, seller dashboard with before/after comparison, REST API, Docker Compose deployment
+[Repository](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
+
+<!--
+  Swap the line below in once the repo has a real screenshot/GIF —
+  a visual of the before/after cutout will do more for this project
+  than any badge on the page.
+
+  <p align="center">
+    <img src="./assets/ai-image-service-demo.png" alt="AI Image Service demo" width="80%" />
+  </p>
+-->
+
+#### [**Modern Portfolio Website**](https://github.com/Muhammad-Fahad-Javed/portfolio)
+Responsive developer portfolio with project showcase, animations, and SEO-optimized structure.
+**Tech:** HTML, CSS, JavaScript
+**Features:** Dark theme, responsive design, GitHub integration
 [Repository](https://github.com/Muhammad-Fahad-Javed/portfolio) · [Live Demo](https://fahadjaved.dev)
 
-### [**Student Management System**](https://github.com/Muhammad-Fahad-Javed/student-management-system)
-Full CRUD console application with OOP architecture and binary file persistence.  
-**Tech:** C++, OOP, File I/O  
-**Features:** Multi‑level class hierarchy, search & sort, data persistence  
+### Systems & Data Structures (C++)
+
+#### [**Student Management System**](https://github.com/Muhammad-Fahad-Javed/student-management-system)
+Full CRUD console application with OOP architecture and binary file persistence.
+**Tech:** C++, OOP, File I/O
+**Features:** Multi-level class hierarchy, search & sort, data persistence
 [Repository](https://github.com/Muhammad-Fahad-Javed/student-management-system)
 
-### [**Ludo Game**](https://github.com/Muhammad-Fahad-Javed/ludo-game)
-Console‑based Ludo game with multi‑player support and collision detection.  
-**Tech:** C++, OOP  
-**Features:** Randomised dice, turn‑based logic, collision handling  
+#### [**Ludo Game**](https://github.com/Muhammad-Fahad-Javed/ludo-game)
+Console-based Ludo game with multi-player support and collision detection.
+**Tech:** C++, OOP
+**Features:** Randomised dice, turn-based logic, collision handling
 [Repository](https://github.com/Muhammad-Fahad-Javed/ludo-game)
 
-### [**Data Structures Library**](https://github.com/Muhammad-Fahad-Javed/data-structures)
-Comprehensive DSA implementations in C++ including trees, graphs, and sorting algorithms.  
-**Tech:** C++, DSA  
-**Features:** Linked lists, trees, graphs, sorting, searching, unit tests  
+#### [**Data Structures Library**](https://github.com/Muhammad-Fahad-Javed/data-structures)
+Comprehensive DSA implementations in C++ including trees, graphs, and sorting algorithms.
+**Tech:** C++, DSA
+**Features:** Linked lists, trees, graphs, sorting, searching, unit tests
 [Repository](https://github.com/Muhammad-Fahad-Javed/data-structures)
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**  
+**Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-**Frontend**  
+**Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Backend & Databases**  
+**Backend & Databases**
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
-**AI & Computer Vision**  
+**AI & Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-**Tools & Deployment**  
+**Tools & Deployment**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
@@ -87,10 +109,10 @@ Comprehensive DSA implementations in C++ including trees, graphs, and sorting al
 
 ## 📚 Learning Journey
 
-- **Currently:** Building a full‑stack application with Next.js and TypeScript.
-- **Exploring:** Computer vision with OpenCV and AI‑powered background removal.
+- **Currently:** Building the AI Image Service — a full-stack Next.js + FastAPI app with an AI background-removal pipeline.
+- **Exploring:** Computer vision fundamentals with OpenCV and Python.
 - **Deepening:** Advanced data structures and algorithms for competitive programming.
-- **Contributing:** Open‑source projects in the JavaScript ecosystem.
+- **Next:** Making my first real contributions to other people's open-source repos, not just my own projects.
 
 ---
 
@@ -107,9 +129,9 @@ Comprehensive DSA implementations in C++ including trees, graphs, and sorting al
 
 ---
 
-## 🌍 Open Source Philosophy
+## 🌍 On Open Source
 
-I believe in building in public and contributing to the developer community. Open source is not just about code—it's about collaboration, learning, and creating tools that empower others. I actively participate in open‑source projects and strive to write code that is clear, documented, and welcoming to new contributors.
+I'm early in my open-source journey — right now that means building and documenting my own projects clearly enough that someone else could actually use or extend them. The next step is contributing to projects beyond my own, starting small: docs, issues, tests.
 
 ---
 
@@ -123,14 +145,9 @@ I believe in building in public and contributing to the developer community. Ope
 ---
 
 <p align="center">
-  <i>“Build things that matter, and always stay curious.”</i>
+  <i>"Build things that matter, and always stay curious."</i>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
-
-<!-- Keywords for SEO (invisible to readers but parsed by crawlers) -->
-<!--
-Muhammad Fahad Javed, Software Engineer, Computer Science Student, FAST NUCES, C++, JavaScript, React, Next.js, Frontend Developer, Full Stack Developer, AI, Computer Vision, Open Source, GitHub Portfolio, Software Development, Data Structures, Algorithms, Web Development, Git, GitHub
--->
