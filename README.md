@@ -3,79 +3,91 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=18B6AE&center=true&vCenter=true&width=900&lines=Building+modern+web+applications;Solving+problems+with+C%2B%2B+and+JavaScript;Interested+in+AI+%26+Computer+Vision;Currently+building+an+AI+background-removal+tool" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=18B6AE&center=true&vCenter=true&width=900&lines=Full-stack+developer+%E2%80%94+React+%2F+Next.js+%2F+C%2B%2B;Currently+building+an+AI+background-removal+tool;Learning+computer+vision+with+OpenCV" alt="Typing animation" />
 </h1>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student at **FAST-NUCES** with a strong foundation in software engineering, data structures, and algorithms. I build web applications using **React**, **Next.js**, and **JavaScript**, while also enjoying systems programming in **C++**.
-
-I'm passionate about creating clean, performant software that solves real-world problems. Right now I'm deepening my full-stack skills and building my first project into AI/computer vision — a background-removal tool for product photos.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Fahad-Javed&color=18B6AE&style=flat&label=Profile+Views" alt="Profile views" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## About Me
 
-| Area | Focus |
-|------|-------|
+I'm a Computer Science student at **FAST-NUCES**, building web applications with **React** and **Next.js** and writing systems-level code in **C++**. Most of what I know about data structures came from implementing them myself before using a library version — I'd rather understand what's happening underneath than just call the function.
+
+Right now I'm working on my first project that goes beyond pure web development: an AI-powered background removal tool, which means learning how to get a Python/ONNX model talking to a TypeScript frontend without either side becoming a black box to me.
+
+---
+
+## Current Focus
+
+| | |
+|---|---|
 | **Learning** | React, Next.js, TypeScript, Advanced DSA |
 | **Building** | AI-powered background removal tool for product photos |
-| **Goals** | Full-stack engineer · Scalable systems · Meaningful open-source contributions |
+| **Exploring** | Computer vision fundamentals (OpenCV, Python) |
+| **Goal** | Full-stack engineering role — internship or entry-level |
 | **Open to** | Internships, collaboration, mentorship |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### Web & Full-Stack
+### [AI Image Service — Background Removal](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
+Sellers upload a product photo; the app returns a clean cutout with the background automatically removed — no manual editing needed on their end.
 
-#### [**AI Image Service — Background Removal**](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
-Full-stack tool where sellers upload a product photo and an AI model automatically removes the background — buyers only ever see the clean cutout.
-**Tech:** Next.js, TypeScript, FastAPI, Python, ONNX Runtime
-**Features:** Drag-and-drop upload with live progress, AI background removal pipeline, seller dashboard with before/after comparison, REST API, Docker Compose deployment
+**Tech:** Next.js, TypeScript, FastAPI, Python, ONNX Runtime, Docker
+**Features:** drag-and-drop upload with live progress, AI background-removal pipeline, seller dashboard with before/after comparison, REST API, Docker Compose deployment
+
+<!-- Add a before/after screenshot or GIF here once available — this is the single highest-impact image you can add to this README -->
+<!-- <p align="center"><img src="./assets/ai-image-service-demo.png" alt="AI Image Service demo" width="80%" /></p> -->
+
 [Repository](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
 
-<!--
-  Swap the line below in once the repo has a real screenshot/GIF —
-  a visual of the before/after cutout will do more for this project
-  than any badge on the page.
+---
 
-  <p align="center">
-    <img src="./assets/ai-image-service-demo.png" alt="AI Image Service demo" width="80%" />
-  </p>
--->
+### [Modern Portfolio Website](https://github.com/Muhammad-Fahad-Javed/portfolio)
+Responsive personal site with a project showcase and SEO-friendly structure.
 
-#### [**Modern Portfolio Website**](https://github.com/Muhammad-Fahad-Javed/portfolio)
-Responsive developer portfolio with project showcase, animations, and SEO-optimized structure.
 **Tech:** HTML, CSS, JavaScript
-**Features:** Dark theme, responsive design, GitHub integration
+**Features:** dark theme, responsive layout, GitHub integration
+
 [Repository](https://github.com/Muhammad-Fahad-Javed/portfolio) · [Live Demo](https://fahadjaved.dev)
 
-### Systems & Data Structures (C++)
+---
 
-#### [**Student Management System**](https://github.com/Muhammad-Fahad-Javed/student-management-system)
-Full CRUD console application with OOP architecture and binary file persistence.
+### [Student Management System](https://github.com/Muhammad-Fahad-Javed/student-management-system)
+CRUD console application with a multi-level class hierarchy and binary file persistence — no database, so all serialization is handled manually.
+
 **Tech:** C++, OOP, File I/O
-**Features:** Multi-level class hierarchy, search & sort, data persistence
+**Features:** multi-level class hierarchy, search & sort, data persistence
+
 [Repository](https://github.com/Muhammad-Fahad-Javed/student-management-system)
 
-#### [**Ludo Game**](https://github.com/Muhammad-Fahad-Javed/ludo-game)
-Console-based Ludo game with multi-player support and collision detection.
+---
+
+### [Ludo Game](https://github.com/Muhammad-Fahad-Javed/ludo-game)
+Console-based, multi-player Ludo with turn-based logic and piece collision handling.
+
 **Tech:** C++, OOP
-**Features:** Randomised dice, turn-based logic, collision handling
+**Features:** randomized dice, turn-based logic, collision handling
+
 [Repository](https://github.com/Muhammad-Fahad-Javed/ludo-game)
 
-#### [**Data Structures Library**](https://github.com/Muhammad-Fahad-Javed/data-structures)
-Comprehensive DSA implementations in C++ including trees, graphs, and sorting algorithms.
-**Tech:** C++, DSA
-**Features:** Linked lists, trees, graphs, sorting, searching, unit tests
+---
+
+### [Data Structures Library](https://github.com/Muhammad-Fahad-Javed/data-structures)
+DSA implementations in C++, built to actually understand each structure rather than to check a box.
+
+**Tech:** C++
+**Features:** linked lists, trees, graphs, sorting, searching, unit tests
+
 [Repository](https://github.com/Muhammad-Fahad-Javed/data-structures)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -89,34 +101,31 @@ Comprehensive DSA implementations in C++ including trees, graphs, and sorting al
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Backend & Databases**
+**Backend & Data**
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
 **AI & Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 
 **Tools & Deployment**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-## 📚 Learning Journey
+## Open Source
 
-- **Currently:** Building the AI Image Service — a full-stack Next.js + FastAPI app with an AI background-removal pipeline.
-- **Exploring:** Computer vision fundamentals with OpenCV and Python.
-- **Deepening:** Advanced data structures and algorithms for competitive programming.
-- **Next:** Making my first real contributions to other people's open-source repos, not just my own projects.
+I'm early here — so far it's meant documenting my own projects well enough that someone else could actually clone and run them. Next step is contributing to repos that aren't mine: starting with docs, small fixes, and tests before anything bigger.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Fahad-Javed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE&hide=issues" alt="GitHub Stats" width="48%" />
@@ -129,24 +138,12 @@ Comprehensive DSA implementations in C++ including trees, graphs, and sorting al
 
 ---
 
-## 🌍 On Open Source
-
-I'm early in my open-source journey — right now that means building and documenting my own projects clearly enough that someone else could actually use or extend them. The next step is contributing to projects beyond my own, starting small: docs, issues, tests.
-
----
-
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fahad-javed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfahadjaved610@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Fahad-Javed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadjaved.dev)
-
----
-
-<p align="center">
-  <i>"Build things that matter, and always stay curious."</i>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
