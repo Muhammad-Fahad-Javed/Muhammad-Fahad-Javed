@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
-    <img src="profile.png" alt="Muhammad Fahad Javed" width="140" />
+    <img src="profile.png" alt="Muhammad Fahad Javed" width="110" />
   </a>
 </p>
 
