@@ -8,6 +8,12 @@
   </a>
 </p>
 
+<h1 align="center">Muhammad Fahad Javed</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=900&color=18B6AE&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+FAST-NUCES;Full-Stack+Web+Development;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Exploring+AI%2C+APIs%2C+and+Systems+Engineering" alt="Introduction: Computer Science student, full-stack developer, and C++ programmer" />
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
