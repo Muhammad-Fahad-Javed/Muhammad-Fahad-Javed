@@ -1,28 +1,30 @@
+<!-- HEADER WAVE ANIMATION -->
 <p align="center">
-  <img src="banner.jpg" alt="Muhammad Fahad Javed banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=18B6AE&height=200&section=header&text=Muhammad%20Fahad%20Javed&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
+<!-- PROFILE PICTURE WITH ANIMATED GLOWING RING -->
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
-    <img src="profile.png" alt="Muhammad Fahad Javed" width="110" />
+    <img src="profile.png" alt="Muhammad Fahad Javed" width="160" style="border-radius: 50%; border: 4px solid #18B6AE; box-shadow: 0 0 20px #18B6AE, 0 0 40px #18B6AE; transition: 0.5s;" />
   </a>
 </p>
 
-<h1 align="center">Muhammad Fahad Javed</h1>
-
+<!-- ANIMATED TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=900&color=18B6AE&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+FAST-NUCES;Full-Stack+Web+Development;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Exploring+AI%2C+APIs%2C+and+Systems+Engineering" alt="Introduction: Computer Science student, full-stack developer, and C++ programmer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=18B6AE&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+FAST-NUCES;Full-Stack+Web+Developer;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Exploring+AI+%26+Systems+Engineering" alt="Typing SVG" />
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
   <a href="https://fahadjaved.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-18B6AE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-18B6AE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" />
   </a>
   <a href="mailto:muhammadfahadjaved610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
 </p>
 
@@ -32,6 +34,11 @@
 
 <p align="center">
   Open to software engineering internships, open-source contributions, and meaningful collaborations.
+</p>
+
+<!-- PROFILE VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Fahad-Javed&label=Profile%20Views&color=18B6AE&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -170,30 +177,30 @@ A personal portfolio designed to organize projects, highlight technical skills, 
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 ### Tools and Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
 </p>
 
 **Core concepts:** Object-oriented programming, data structures, algorithms, file handling, REST APIs, and responsive web design.
@@ -207,6 +214,11 @@ A personal portfolio designed to organize projects, highlight technical skills, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Fahad-Javed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=C9D1D9&icon_color=18B6AE&hide=issues" height="165" alt="GitHub contribution and repository statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Fahad-Javed&layout=compact&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=C9D1D9" height="165" alt="Most-used programming languages across public repositories" />
+</p>
+
+<!-- STREAK ANIMATION -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Fahad-Javed&theme=dark&background=0D1117&border=18B6AE&stroke=18B6AE&ring=18B6AE&fire=18B6AE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=18B6AE&sideLabels=18B6AE&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
