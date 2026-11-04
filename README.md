@@ -1,150 +1,234 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=18B6AE&height=200&section=header&text=Muhammad%20Fahad%20Javed&fontSize=50&fontColor=F7F9FB&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%40%20FAST-NUCES%20%C2%B7%20C%2B%2B%20%C2%B7%20React%20%C2%B7%20Full%20Stack&descAlignY=60&descSize=18" alt="Hero banner" width="100%" />
+  <img src="assets/banner.png" alt="Muhammad Fahad Javed banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=500&color=18B6AE&center=true&vCenter=true&width=900&lines=Full-stack+developer+%E2%80%94+React+%2F+Next.js+%2F+C%2B%2B;Currently+building+an+AI+background-removal+tool;Learning+computer+vision+with+OpenCV" alt="Typing animation" />
-</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-fahad-javed">
+    <img src="assets/profile.jpg" alt="Muhammad Fahad Javed" width="140" />
+  </a>
+</p>
+
+<h1 align="center">Muhammad Fahad Javed</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Fahad-Javed&color=18B6AE&style=flat&label=Profile+Views" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=900&color=18B6AE&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+FAST-NUCES;Full-Stack+Web+Development;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Exploring+AI%2C+APIs%2C+and+Systems+Engineering" alt="Introduction: Computer Science student, full-stack developer, and C++ programmer" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-fahad-javed">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fahadjaved.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-18B6AE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:muhammadfahadjaved610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building practical software. Understanding the fundamentals. Improving with every project.</b>
+</p>
+
+<p align="center">
+  Open to software engineering internships, open-source contributions, and meaningful collaborations.
 </p>
 
 ---
 
 ## About Me
 
-I'm a Computer Science student at **FAST-NUCES**, building web applications with **React** and **Next.js** and writing systems-level code in **C++**. Most of what I know about data structures came from implementing them myself before using a library version — I'd rather understand what's happening underneath than just call the function.
+I'm a Computer Science student at **FAST-NUCES, Class of 2029**, interested in software engineering, full-stack development, and the systems behind the applications we use.
 
-Right now I'm working on my first project that goes beyond pure web development: an AI-powered background removal tool, which means learning how to get a Python/ONNX model talking to a TypeScript frontend without either side becoming a black box to me.
+I work with C++ to strengthen my understanding of programming fundamentals, object-oriented design, and data structures. I also build web applications and explore how frontend interfaces, backend services, databases, and AI models fit together.
 
----
+I believe the best way to learn software engineering is to build real projects, solve problems independently, and understand why a solution works—not just how to make it run.
 
-## Current Focus
+Currently, I'm exploring an AI-powered background-removal service that connects a TypeScript frontend with a Python-based inference backend.
 
-| | |
+## What I'm Working On
+
+| Area | Focus |
 |---|---|
-| **Learning** | React, Next.js, TypeScript, Advanced DSA |
-| **Building** | AI-powered background removal tool for product photos |
-| **Exploring** | Computer vision fundamentals (OpenCV, Python) |
-| **Goal** | Full-stack engineering role — internship or entry-level |
-| **Open to** | Internships, collaboration, mentorship |
+| Building | AI-powered background removal for product photography |
+| Web Development | React, Next.js, TypeScript, and API integration |
+| Core CS | C++, OOP, data structures, algorithms, and problem-solving |
+| Exploring | Python, FastAPI, ONNX Runtime, and Docker |
+| Career Goal | Software engineering internships and collaborative projects |
 
 ---
 
 ## Featured Projects
 
-### [AI Image Service — Background Removal](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
-Sellers upload a product photo; the app returns a clean cutout with the background automatically removed — no manual editing needed on their end.
+### 1. AI Image Service — Background Removal
 
-**Tech:** Next.js, TypeScript, FastAPI, Python, ONNX Runtime, Docker
-**Features:** drag-and-drop upload with live progress, AI background-removal pipeline, seller dashboard with before/after comparison, REST API, Docker Compose deployment
+**An AI-powered tool for creating clean product images.**
 
-<!-- Add a before/after screenshot or GIF here once available — this is the single highest-impact image you can add to this README -->
-<!-- <p align="center"><img src="./assets/ai-image-service-demo.png" alt="AI Image Service demo" width="80%" /></p> -->
+A project focused on connecting a modern web interface to an image-processing backend, with an emphasis on a practical workflow for online sellers.
 
-[Repository](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
+- **Frontend:** Next.js, TypeScript
+- **Backend:** Python, FastAPI
+- **AI inference:** ONNX Runtime
+- **Infrastructure:** Docker
+
+**Engineering focus:** Frontend-to-backend communication, image processing, API design, and model integration.
+
+[View Repository](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
+
+### 2. Clotheric
+
+**A web project built around clothing and online shopping.**
+
+Clotheric is a full-stack web application focused on presenting products and giving users a smooth browsing experience.
+
+- Responsive, product-focused interface
+- Clean navigation and page structure
+- Frontend and backend integration
+
+**Engineering focus:** Full-stack application structure, responsive UI, and user experience.
+
+[View Repository](https://github.com/Muhammad-Fahad-Javed/clotheric)
+
+### 3. OutputTracer
+
+**A developer tool for tracing and understanding program output.**
+
+OutputTracer helps follow how a program produces its results, making it easier to debug and reason about code behavior.
+
+- Output tracing and inspection
+- Focus on clarity when debugging
+- Built to deepen understanding of how programs execute
+
+**Engineering focus:** Program behavior analysis, debugging workflows, and developer tooling.
+
+[View Repository](https://github.com/Muhammad-Fahad-Javed/outputtracer)
+
+### 4. Data Structures Library
+
+**Implementing fundamental data structures in C++.**
+
+A learning-oriented project focused on understanding how common data structures and algorithms work internally.
+
+- Linked lists
+- Trees and graphs
+- Sorting and searching
+- Testing and implementation practice
+
+**Engineering focus:** Memory management, algorithmic thinking, complexity analysis, and reusable C++ code.
+
+[View Repository](https://github.com/Muhammad-Fahad-Javed/data-structures)
+
+### 5. Student Management System
+
+**A C++ application built around object-oriented programming and file persistence.**
+
+A console-based project for managing student records while practicing structured program design.
+
+- Create, read, update, and delete operations
+- Object-oriented design and class hierarchies
+- Binary file handling and persistence
+- Search and sorting functionality
+
+**Engineering focus:** Data organization, file I/O, encapsulation, and persistent storage without relying on a database.
+
+[View Repository](https://github.com/Muhammad-Fahad-Javed/student-management-system)
+
+### 6. Ludo Game
+
+**A multiplayer console game implemented in C++.**
+
+A project centered on game rules, turn management, and handling interactions between pieces.
+
+- Turn-based gameplay
+- Randomized dice rolls
+- Piece movement and collision handling
+- Object-oriented program structure
+
+**Engineering focus:** State management, conditional logic, and translating game rules into code.
+
+[View Repository](https://github.com/Muhammad-Fahad-Javed/ludo-game)
+
+### 7. Personal Portfolio
+
+**A responsive website presenting my work and development journey.**
+
+A personal portfolio designed to organize projects, highlight technical skills, and provide a central place to explore my work.
+
+- Responsive layouts
+- HTML, CSS, and JavaScript
+- Project showcase and navigation
+- SEO-conscious page structure
+
+**Engineering focus:** Frontend implementation, usability, and responsive design.
+
+[Live Portfolio](https://fahadjaved.dev) · [Source Code](https://github.com/Muhammad-Fahad-Javed/portfolio)
 
 ---
 
-### [Modern Portfolio Website](https://github.com/Muhammad-Fahad-Javed/portfolio)
-Responsive personal site with a project showcase and SEO-friendly structure.
+## Technical Skills
 
-**Tech:** HTML, CSS, JavaScript
-**Features:** dark theme, responsive layout, GitHub integration
+### Programming Languages
 
-[Repository](https://github.com/Muhammad-Fahad-Javed/portfolio) · [Live Demo](https://fahadjaved.dev)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
----
+### Web Development
 
-### [Student Management System](https://github.com/Muhammad-Fahad-Javed/student-management-system)
-CRUD console application with a multi-level class hierarchy and binary file persistence — no database, so all serialization is handled manually.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
-**Tech:** C++, OOP, File I/O
-**Features:** multi-level class hierarchy, search & sort, data persistence
+### Tools and Technologies
 
-[Repository](https://github.com/Muhammad-Fahad-Javed/student-management-system)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+</p>
 
----
+**Core concepts:** Object-oriented programming, data structures, algorithms, file handling, REST APIs, and responsive web design.
 
-### [Ludo Game](https://github.com/Muhammad-Fahad-Javed/ludo-game)
-Console-based, multi-player Ludo with turn-based logic and piece collision handling.
-
-**Tech:** C++, OOP
-**Features:** randomized dice, turn-based logic, collision handling
-
-[Repository](https://github.com/Muhammad-Fahad-Javed/ludo-game)
-
----
-
-### [Data Structures Library](https://github.com/Muhammad-Fahad-Javed/data-structures)
-DSA implementations in C++, built to actually understand each structure rather than to check a box.
-
-**Tech:** C++
-**Features:** linked lists, trees, graphs, sorting, searching, unit tests
-
-[Repository](https://github.com/Muhammad-Fahad-Javed/data-structures)
+*Technology badges represent tools relevant to my projects and learning. My experience with each technology varies.*
 
 ---
 
-## Tech Stack
-
-**Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-
-**AI & Computer Vision**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-
-**Tools & Deployment**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
----
-
-## Open Source
-
-I'm early here — so far it's meant documenting my own projects well enough that someone else could actually clone and run them. Next step is contributing to repos that aren't mine: starting with docs, small fixes, and tests before anything bigger.
-
----
-
-## GitHub Analytics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Fahad-Javed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD&icon_color=18B6AE&hide=issues" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Fahad-Javed&layout=compact&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=A9B2BD" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Fahad-Javed&show_icons=true&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=C9D1D9&icon_color=18B6AE&hide=issues" height="165" alt="GitHub contribution and repository statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Fahad-Javed&layout=compact&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=C9D1D9" height="165" alt="Most-used programming languages across public repositories" />
+</p>
+
+---
+
+## Beyond My Own Projects
+
+I'm working toward becoming a stronger engineer by improving code quality, writing clearer documentation, testing edge cases, and learning from other developers.
+
+My next goals are to contribute to open-source projects, improve my understanding of software architecture, and build applications that solve real problems.
+
+## Let's Connect
+
+I'm always interested in connecting with developers, learning from experienced engineers, collaborating on projects, and exploring internship opportunities.
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-fahad-javed">LinkedIn</a>
+  ·
+  <a href="https://fahadjaved.dev">Portfolio</a>
+  ·
+  <a href="mailto:muhammadfahadjaved610@gmail.com">Email Me</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Fahad-Javed&hide_border=true&background=0D1117&stroke=263646&ring=18B6AE&fire=18B6AE&currStreakLabel=18B6AE&sideLabels=A9B2BD&currStreakNum=F7F9FB&sideNums=F7F9FB&dates=A9B2BD" alt="GitHub Streak" width="55%" />
-</p>
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fahad-javed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfahadjaved610@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Fahad-Javed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadjaved.dev)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <sub>Learning continuously. Building consistently. Engineering with purpose.</sub>
 </p>
