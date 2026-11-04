@@ -1,14 +1,16 @@
-<!-- HEADER WAVE ANIMATION -->
+<!-- YOUR CUSTOM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=18B6AE&height=200&section=header&text=Muhammad%20Fahad%20Javed&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="banner.jpg" alt="Muhammad Fahad Javed banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-<!-- PROFILE PICTURE WITH ANIMATED GLOWING RING -->
+<!-- GLOWING CIRCLE PROFILE PICTURE -->
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
-    <img src="profile.png" alt="Muhammad Fahad Javed" width="160" style="border-radius: 50%; border: 4px solid #18B6AE; box-shadow: 0 0 20px #18B6AE, 0 0 40px #18B6AE; transition: 0.5s;" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Muhammad-Fahad-Javed/Muhammad-Fahad-Javed/main/profile.png&mask=circle&bg=18B6AE&w=160&h=160" alt="Muhammad Fahad Javed" />
   </a>
 </p>
+
+<h1 align="center">Muhammad Fahad Javed</h1>
 
 <!-- ANIMATED TYPING EFFECT -->
 <p align="center">
@@ -216,7 +218,7 @@ A personal portfolio designed to organize projects, highlight technical skills, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Fahad-Javed&layout=compact&hide_border=true&bg_color=0D1117&title_color=18B6AE&text_color=C9D1D9" height="165" alt="Most-used programming languages across public repositories" />
 </p>
 
-<!-- STREAK ANIMATION -->
+<!-- ANIMATED STREAK -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Fahad-Javed&theme=dark&background=0D1117&border=18B6AE&stroke=18B6AE&ring=18B6AE&fire=18B6AE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=18B6AE&sideLabels=18B6AE&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
 </p>
