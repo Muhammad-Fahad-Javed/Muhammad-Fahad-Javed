@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Muhammad Fahad Javed banner" width="100%" />
+  <img src="banner.jpg" alt="Muhammad Fahad Javed banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
-    <img src="assets/profile.png" alt="Muhammad Fahad Javed" width="140" />
+    <img src="profile.png" alt="Muhammad Fahad Javed" width="140" />
   </a>
 </p>
 
