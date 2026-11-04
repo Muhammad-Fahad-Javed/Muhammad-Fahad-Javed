@@ -69,22 +69,10 @@ Currently, I'm exploring an AI-powered background-removal service that connects 
 
 ## Featured Projects
 
-### 1. AI Image Service — Background Removal
-
-**An AI-powered tool for creating clean product images.**
-
-A project focused on connecting a modern web interface to an image-processing backend, with an emphasis on a practical workflow for online sellers.
-
-- **Frontend:** Next.js, TypeScript
-- **Backend:** Python, FastAPI
-- **AI inference:** ONNX Runtime
-- **Infrastructure:** Docker
-
-**Engineering focus:** Frontend-to-backend communication, image processing, API design, and model integration.
-
-[View Repository](https://github.com/Muhammad-Fahad-Javed/ai-image-service)
-
-### 2. Clotheric
+<!-- ANIMATED CARD: CLOTHERIC -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B6AE&height=50&text=Clotheric&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" />
+</p>
 
 **A web project built around clothing and online shopping.**
 
@@ -96,9 +84,18 @@ Clotheric is a full-stack web application focused on presenting products and giv
 
 **Engineering focus:** Full-stack application structure, responsive UI, and user experience.
 
-[View Repository](https://github.com/Muhammad-Fahad-Javed/clotheric)
+<p align="center">
+  <a href="https://github.com/Muhammad-Fahad-Javed/clotheric">
+    <img src="https://img.shields.io/badge/View%20Repository-18B6AE?style=for-the-badge&logo=github&logoColor=white" alt="View Clotheric Repository" />
+  </a>
+</p>
 
-### 3. OutputTracer
+<br />
+
+<!-- ANIMATED CARD: OUTPUTTRACER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=18B6AE&height=50&text=OutputTracer&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" />
+</p>
 
 **A developer tool for tracing and understanding program output.**
 
@@ -110,67 +107,11 @@ OutputTracer helps follow how a program produces its results, making it easier t
 
 **Engineering focus:** Program behavior analysis, debugging workflows, and developer tooling.
 
-[View Repository](https://github.com/Muhammad-Fahad-Javed/outputtracer)
-
-### 4. Data Structures Library
-
-**Implementing fundamental data structures in C++.**
-
-A learning-oriented project focused on understanding how common data structures and algorithms work internally.
-
-- Linked lists
-- Trees and graphs
-- Sorting and searching
-- Testing and implementation practice
-
-**Engineering focus:** Memory management, algorithmic thinking, complexity analysis, and reusable C++ code.
-
-[View Repository](https://github.com/Muhammad-Fahad-Javed/data-structures)
-
-### 5. Student Management System
-
-**A C++ application built around object-oriented programming and file persistence.**
-
-A console-based project for managing student records while practicing structured program design.
-
-- Create, read, update, and delete operations
-- Object-oriented design and class hierarchies
-- Binary file handling and persistence
-- Search and sorting functionality
-
-**Engineering focus:** Data organization, file I/O, encapsulation, and persistent storage without relying on a database.
-
-[View Repository](https://github.com/Muhammad-Fahad-Javed/student-management-system)
-
-### 6. Ludo Game
-
-**A multiplayer console game implemented in C++.**
-
-A project centered on game rules, turn management, and handling interactions between pieces.
-
-- Turn-based gameplay
-- Randomized dice rolls
-- Piece movement and collision handling
-- Object-oriented program structure
-
-**Engineering focus:** State management, conditional logic, and translating game rules into code.
-
-[View Repository](https://github.com/Muhammad-Fahad-Javed/ludo-game)
-
-### 7. Personal Portfolio
-
-**A responsive website presenting my work and development journey.**
-
-A personal portfolio designed to organize projects, highlight technical skills, and provide a central place to explore my work.
-
-- Responsive layouts
-- HTML, CSS, and JavaScript
-- Project showcase and navigation
-- SEO-conscious page structure
-
-**Engineering focus:** Frontend implementation, usability, and responsive design.
-
-[Live Portfolio](https://fahadjaved.dev) · [Source Code](https://github.com/Muhammad-Fahad-Javed/portfolio)
+<p align="center">
+  <a href="https://github.com/Muhammad-Fahad-Javed/outputtracer">
+    <img src="https://img.shields.io/badge/View%20Repository-18B6AE?style=for-the-badge&logo=github&logoColor=white" alt="View OutputTracer Repository" />
+  </a>
+</p>
 
 ---
 
