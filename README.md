@@ -2,7 +2,7 @@
 <p align="center">
   <img src="banner.jpg" alt="Muhammad Fahad Javed banner" width="100%" style="border-radius: 10px;" />
 </p>
-
+<meta name="google-site-verification" content="aVmicC6dKrMQb2owAmfBapBOtLmyyKWdjzoKVgIx3wk" />
 <!-- GLOWING CIRCLE PROFILE PICTURE -->
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
