@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Muhammad Fahad Javed banner" width="100%" />
+  <img src="assets/banner.jpg" alt="Muhammad Fahad Javed banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-fahad-javed">
-    <img src="assets/profile.jpg" alt="Muhammad Fahad Javed" width="140" />
+    <img src="assets/profile.png" alt="Muhammad Fahad Javed" width="140" />
   </a>
-</p>
-
-<h1 align="center">Muhammad Fahad Javed</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=900&color=18B6AE&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+FAST-NUCES;Full-Stack+Web+Development;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Exploring+AI%2C+APIs%2C+and+Systems+Engineering" alt="Introduction: Computer Science student, full-stack developer, and C++ programmer" />
 </p>
 
 <p align="center">
